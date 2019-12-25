@@ -9,6 +9,9 @@ I'm a Ph.D. student at Tsinghua University, supervised by Professor Guangwen Yan
 Guangxiang Zhu\*, **Zichuan Lin\***, Guangwen Yang, and Chongjie Zhang. **Episodic Reinforcement Learning with Associative Memory**. International Conference on Learning Representations. **ICLR 2020**.
 [[pdf](https://openreview.net/forum?id=HkxjqxBYDB&noteId=HkxjqxBYDB)]
 
+Guangxiang Zhu*, Jianhao Wang*, Zhizhou Ren*, **Zichuan Lin** and Chongjie Zhang. **Object-Oriented Dynamics Learning through Multi-Level Abstraction**. Thirty-Fourth AAAI Conference on Artificial Intelligence. **AAAI 2020**.
+[[pdf](https://arxiv.org/abs/1904.07482)]
+
 **Zichuan Lin**, Li Zhao, Derek Yang, Tao Qin, Guangwen Yang, and Tie-yan Liu. **Distributional Reward Decomposition for Reinforcement Learning**. Conference on Neural Information Processing Systems. **NeurIPS 2019**.
 [[pdf](https://arxiv.org/abs/1911.02166)]
 
