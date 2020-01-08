@@ -1,6 +1,6 @@
 # Zichuan Lin (林子钏)
 
-I'm a Ph.D. student at Tsinghua University, supervised by Professor Guangwen Yang. I interned at Microsoft Research Asia from Sep. 2016 to Mar. 2018 (advised by [Lintao Zhang](https://www.microsoft.com/en-us/research/people/lintaoz/)) and from May 2018 to Jun. 2019 (advised by [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Li Zhao](https://www.microsoft.com/en-us/research/people/lizo/)). My research interests include:
+I'm a Ph.D. student at Tsinghua University, advised by Professor [Guangwen Yang](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224195554390212530/20101224195554390212530_.html). I interned at Microsoft Research Asia from Sep. 2016 to Mar. 2018 (advised by [Lintao Zhang](https://www.microsoft.com/en-us/research/people/lintaoz/)) and from May 2018 to Jun. 2019 (advised by [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Li Zhao](https://www.microsoft.com/en-us/research/people/lizo/)). My research interests include:
 - Reinforcement Learning
 - Imitation Learning
 - Meta Learning
