@@ -1,9 +1,10 @@
-# Zichuan Lin (林子钏)
+# Zichuan Lin
 
-I'm a Ph.D. student at Tsinghua University, advised by Professor [Guangwen Yang](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224195554390212530/20101224195554390212530_.html). I interned at Microsoft Research Asia from Sep. 2016 to Mar. 2018 (advised by [Lintao Zhang](https://www.microsoft.com/en-us/research/people/lintaoz/)) and from May 2018 to Jun. 2019 (advised by [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Li Zhao](https://www.microsoft.com/en-us/research/people/lizo/)). My research interests include:
-- Reinforcement Learning
-- Imitation Learning
-- Meta Learning
+I am a fourth-year Ph.D. student in the Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Guangwen Yang](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224195554390212530/20101224195554390212530_.html). 
+
+I was a research intern at Microsoft Research Asia from Sep, 2016 to Mar, 2018 (advised by [Lintao Zhang](https://www.microsoft.com/en-us/research/people/lintaoz/)) and from May, 2018 to Jun, 2019 (advised by [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Li Zhao](https://www.microsoft.com/en-us/research/people/lizo/)). I also collaborate with [Tengyu Ma](https://ai.stanford.edu/~tengyuma/) towards some RL research.
+
+My research interests include deep reinforcement learning, imitation learning and meta learning. My goal is to develop sample-efficient reinforcement learning algorithms. Specifically, my research projects mainly involve episodic control, representation learning, distributional RL and multi-task RL.
 
 ### Publications
 Guangxiang Zhu\*, **Zichuan Lin\***, Guangwen Yang, and Chongjie Zhang. **Episodic Reinforcement Learning with Associative Memory**. International Conference on Learning Representations. **ICLR 2020**.
