@@ -23,7 +23,7 @@ Derek Yang, Li Zhao, **Zichuan Lin**, Jiang Bian, Tao Qin, and Tie-yan Liu. **Fu
 [[pdf](http://proceedings.mlr.press/v101/lin19a.html)]
 
 **Zichuan Lin**, Tianqi Zhao, Guangwen Yang, and Lintao Zhang. **Episodic Memory Deep Q-Networks**. International Joint Conference on Artificial Intelligence. **IJCAI 2018**.
-[[pdf](https://arxiv.org/abs/1805.07603)]
+[[pdf](https://arxiv.org/abs/1805.07603)] [[code](https://github.com/LinZichuan/emdqn)]
 
 
 ### Contact
