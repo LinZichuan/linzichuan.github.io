@@ -7,22 +7,34 @@ I was a research intern at Microsoft Research Asia from Sep, 2016 to Mar, 2018 (
 My research interests include deep reinforcement learning, imitation learning and meta learning. My goal is to develop sample-efficient reinforcement learning algorithms. Specifically, my research projects mainly involve episodic control, representation learning, distributional RL and multi-task RL.
 
 ### Publications
-Guangxiang Zhu\*, **Zichuan Lin\***, Guangwen Yang, and Chongjie Zhang. **Episodic Reinforcement Learning with Associative Memory**. International Conference on Learning Representations. **ICLR 2020**.
+**Episodic Reinforcement Learning with Associative Memory**
+Guangxiang Zhu\*, **Zichuan Lin\***, Guangwen Yang, and Chongjie Zhang
+ICLR 2020
 [[pdf](https://openreview.net/forum?id=HkxjqxBYDB&noteId=HkxjqxBYDB)]
 
-Guangxiang Zhu\*, Jianhao Wang\*, Zhizhou Ren\*, **Zichuan Lin** and Chongjie Zhang. **Object-Oriented Dynamics Learning through Multi-Level Abstraction**. Thirty-Fourth AAAI Conference on Artificial Intelligence. **AAAI 2020**.
+**Object-Oriented Dynamics Learning through Multi-Level Abstraction**
+Guangxiang Zhu\*, Jianhao Wang\*, Zhizhou Ren\*, **Zichuan Lin** and Chongjie Zhang
+AAAI 2020
 [[pdf](https://arxiv.org/abs/1904.07482)]
 
-**Zichuan Lin**, Li Zhao, Derek Yang, Tao Qin, Guangwen Yang, and Tie-yan Liu. **Distributional Reward Decomposition for Reinforcement Learning**. Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+**Distributional Reward Decomposition for Reinforcement Learning**
+**Zichuan Lin**, Li Zhao, Derek Yang, Tao Qin, Guangwen Yang, and Tie-yan Liu
+NeurIPS 2019
 [[pdf](https://arxiv.org/abs/1911.02166)]
 
-Derek Yang, Li Zhao, **Zichuan Lin**, Jiang Bian, Tao Qin, and Tie-yan Liu. **Fully Parameterized Quantile Function for Distributional Reinforcement Learning**. Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+**Fully Parameterized Quantile Function for Distributional Reinforcement Learning**
+Derek Yang, Li Zhao, **Zichuan Lin**, Jiang Bian, Tao Qin, and Tie-yan Liu
+NeurIPS 2019
 [[pdf](https://arxiv.org/abs/1911.02140)]
 
-**Zichuan Lin**, Li Zhao, Jiang Bian, Tao Qin, and Guangwen Yang. **Unified Policy Optimization for Robust Reinforcement Learning**.    Asian Conference on Machine Learning. **ACML 2019, oral**.
+**Unified Policy Optimization for Robust Reinforcement Learning**
+**Zichuan Lin**, Li Zhao, Jiang Bian, Tao Qin, and Guangwen Yang
+ACML 2019, oral
 [[pdf](http://proceedings.mlr.press/v101/lin19a.html)]
 
-**Zichuan Lin**, Tianqi Zhao, Guangwen Yang, and Lintao Zhang. **Episodic Memory Deep Q-Networks**. International Joint Conference on Artificial Intelligence. **IJCAI 2018**.
+**Episodic Memory Deep Q-Networks**
+**Zichuan Lin**, Tianqi Zhao, Guangwen Yang, and Lintao Zhang
+IJCAI 2018
 [[pdf](https://arxiv.org/abs/1805.07603)] [[code](https://github.com/LinZichuan/emdqn)]
 
 
