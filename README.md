@@ -1,12 +1,12 @@
-# Zichuan Lin
+## About
 
-I am a fourth-year Ph.D. student in the Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Guangwen Yang](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224195554390212530/20101224195554390212530_.html). 
+Hi! I am Zichuan Lin, a fourth-year Ph.D. student in the Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Guangwen Yang](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224195554390212530/20101224195554390212530_.html). 
 
 I was a research intern at Microsoft Research Asia from Sep, 2016 to Mar, 2018 (advised by [Lintao Zhang](https://www.microsoft.com/en-us/research/people/lintaoz/)) and from May, 2018 to Jun, 2019 (advised by [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Li Zhao](https://www.microsoft.com/en-us/research/people/lizo/)). I also collaborate with [Tengyu Ma](https://ai.stanford.edu/~tengyuma/) towards some RL research.
 
 My research interests include deep reinforcement learning, imitation learning and meta learning. My goal is to develop sample-efficient reinforcement learning algorithms. Specifically, my research projects mainly involve episodic control, representation learning, distributional RL and multi-task RL.
 
-### Publications
+## Publications
 **Episodic Reinforcement Learning with Associative Memory** [[pdf](https://openreview.net/forum?id=HkxjqxBYDB&noteId=HkxjqxBYDB)]  <br>
 Guangxiang Zhu\*, **Zichuan Lin\***, Guangwen Yang, and Chongjie Zhang  <br>
 ICLR 2020
@@ -32,7 +32,7 @@ ACML 2019, **oral**
 IJCAI 2018
 
 
-### Contact
+## Contact
 - Email: linzc16@mails.tsinghua.edu.cn
 
 <a href="https://clustrmaps.com/site/1b2e1" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=38tnS4bll5XgaykJkqqgl4v3F3ocQMWiBSN-2_sgxrA&cl=ffffff"></a>
