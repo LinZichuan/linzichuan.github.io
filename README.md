@@ -25,7 +25,7 @@ NeurIPS 2019
 
 [Unified Policy Optimization for Robust Reinforcement Learning](http://proceedings.mlr.press/v101/lin19a.html)  <br>
 **Zichuan Lin**, Li Zhao, Jiang Bian, Tao Qin, and Guangwen Yang  <br>
-ACML 2019, **oral**
+ACML 2019 **(Oral)**
 
 [Episodic Memory Deep Q-Networks](https://arxiv.org/abs/1805.07603) [[code](https://github.com/LinZichuan/emdqn)]  <br>
 **Zichuan Lin**, Tianqi Zhao, Guangwen Yang, and Lintao Zhang  <br>
