@@ -7,27 +7,27 @@ I was a research intern at Microsoft Research Asia from Sep, 2016 to Mar, 2018 (
 My research interests include deep reinforcement learning, imitation learning and meta learning. My goal is to develop sample-efficient reinforcement learning algorithms. Specifically, my research projects mainly involve episodic control, representation learning, distributional RL and multi-task RL.
 
 ## Publications
-[Episodic Reinforcement Learning with Associative Memory](https://openreview.net/forum?id=HkxjqxBYDB&noteId=HkxjqxBYDB)  <br>
+- [Episodic Reinforcement Learning with Associative Memory](https://openreview.net/forum?id=HkxjqxBYDB&noteId=HkxjqxBYDB)  <br>
 Guangxiang Zhu\*, **Zichuan Lin\***, Guangwen Yang, and Chongjie Zhang  <br>
 ICLR 2020
 
-[Object-Oriented Dynamics Learning through Multi-Level Abstraction](https://arxiv.org/abs/1904.07482)  <br>
+- [Object-Oriented Dynamics Learning through Multi-Level Abstraction](https://arxiv.org/abs/1904.07482)  <br>
 Guangxiang Zhu\*, Jianhao Wang\*, Zhizhou Ren\*, **Zichuan Lin** and Chongjie Zhang  <br>
 AAAI 2020
 
-[Distributional Reward Decomposition for Reinforcement Learning](https://arxiv.org/abs/1911.02166)  <br>
+- [Distributional Reward Decomposition for Reinforcement Learning](https://arxiv.org/abs/1911.02166)  <br>
 **Zichuan Lin**, Li Zhao, Derek Yang, Tao Qin, Guangwen Yang, and Tie-yan Liu  <br>
 NeurIPS 2019
 
-[Fully Parameterized Quantile Function for Distributional Reinforcement Learning](https://arxiv.org/abs/1911.02140)  <br>
+- [Fully Parameterized Quantile Function for Distributional Reinforcement Learning](https://arxiv.org/abs/1911.02140)  <br>
 Derek Yang, Li Zhao, **Zichuan Lin**, Jiang Bian, Tao Qin, and Tie-yan Liu  <br>
 NeurIPS 2019
 
-[Unified Policy Optimization for Robust Reinforcement Learning](http://proceedings.mlr.press/v101/lin19a.html)  <br>
+- [Unified Policy Optimization for Robust Reinforcement Learning](http://proceedings.mlr.press/v101/lin19a.html)  <br>
 **Zichuan Lin**, Li Zhao, Jiang Bian, Tao Qin, and Guangwen Yang  <br>
 ACML 2019 **(Oral)**
 
-[Episodic Memory Deep Q-Networks](https://arxiv.org/abs/1805.07603) [[code](https://github.com/LinZichuan/emdqn)]  <br>
+- [Episodic Memory Deep Q-Networks](https://arxiv.org/abs/1805.07603) [[code](https://github.com/LinZichuan/emdqn)]  <br>
 **Zichuan Lin**, Tianqi Zhao, Guangwen Yang, and Lintao Zhang  <br>
 IJCAI 2018
 
