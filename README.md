@@ -33,10 +33,10 @@ ACML 2019 **(Oral)**
 IJCAI 2018
 
 ## Talks
-- Unified Policy Optimization for Reinforcement Learning (Nagoya, Japan, 2019) [slides](https://github.com/LinZichuan/emdqn)
-- Towards Sample-efficient, Interpretable and Robust Reinforcement Learning (Wuxi, China, 2019) [slides](https://github.com/LinZichuan/emdqn)
-- Episodic Memory Deep Q-Networks (Stockholm, Sweden, 2018) [slides](https://github.com/LinZichuan/emdqn)
-- Reinforcement Learning: Episodic Memory and Learning to Run (MSRA, Beijing, 2017) [slides](https://github.com/LinZichuan/emdqn)
+- Unified Policy Optimization for Reinforcement Learning (Nagoya, Japan, 2019) [[slides](https://github.com/LinZichuan/emdqn)]
+- Towards Sample-efficient, Interpretable and Robust Reinforcement Learning (Wuxi, China, 2019) [[slides](https://github.com/LinZichuan/emdqn)]
+- Episodic Memory Deep Q-Networks (Stockholm, Sweden, 2018) [[slides](https://github.com/LinZichuan/emdqn)]
+- Reinforcement Learning: Episodic Memory and Learning to Run (MSRA, Beijing, 2017) [[slides](https://github.com/LinZichuan/emdqn)]
 
 ## Experience and Services
 - Reviewer: NeurlPS 2020
