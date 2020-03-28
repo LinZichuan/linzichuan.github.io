@@ -47,6 +47,7 @@ MSRA, Beijing, 2017
 
 ## Experience and Services
 - Reviewer: NeurlPS 2020
+- Teaching Assistant: Software Engineering (Undergraduate Course, Spring 2016)
 
 ## Contact
 - Email: linzc16 at mails dot tsinghua dot edu dot cn
