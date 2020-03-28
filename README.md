@@ -34,9 +34,9 @@ IJCAI 2018
 
 ## Talks
 - Unified Policy Optimization for Reinforcement Learning (Nagoya, Japan, 2019) [[slides](https://github.com/LinZichuan/emdqn)]
-- Towards Sample-efficient, Interpretable and Robust Reinforcement Learning (Wuxi, China, 2019) [[slides](https://github.com/LinZichuan/emdqn)]
-- Episodic Memory Deep Q-Networks (Stockholm, Sweden, 2018) [[slides](https://github.com/LinZichuan/emdqn)]
-- Reinforcement Learning: Episodic Memory and Learning to Run (MSRA, Beijing, 2017) [[slides](https://github.com/LinZichuan/emdqn)]
+- Towards Sample-efficient, Interpretable and Robust Reinforcement Learning (Wuxi, China, 2019) [[slides](https://drive.google.com/open?id=1gAz23bdgeMrzKFmZc9H4fYs792zXW9Ot)]
+- Episodic Memory Deep Q-Networks (Stockholm, Sweden, 2018) [[slides](https://drive.google.com/open?id=1hSdLZBnmb5jOGyYkz0cwk24fApRRgu7H)]
+- Reinforcement Learning: Episodic Memory and Learning to Run (MSRA, Beijing, 2017) [[slides](https://drive.google.com/file/d/16nCWKtAJW7VqLTyydQtUipD3cmrgZUMT/view?usp=sharing)]
 
 ## Experience and Services
 - Reviewer: NeurlPS 2020
