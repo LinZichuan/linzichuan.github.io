@@ -33,13 +33,17 @@ ACML 2019 **(Oral)**
 IJCAI 2018
 
 ## Talks
-- Unified Policy Optimization for Reinforcement Learning (Nagoya, Japan, 2019) [[slides](https://drive.google.com/open?id=1N-YhYJpPImix0nQFpVixrhi_c-Xr3EVd)]
+- Unified Policy Optimization for Reinforcement Learning [[slides](https://drive.google.com/open?id=1N-YhYJpPImix0nQFpVixrhi_c-Xr3EVd)] <br>
+Nagoya, Japan, 2019
 
-- Towards Sample-efficient, Interpretable and Robust Reinforcement Learning (Wuxi, China, 2019) [[slides](https://drive.google.com/open?id=1gAz23bdgeMrzKFmZc9H4fYs792zXW9Ot)]
+- Towards Sample-efficient, Interpretable and Robust Reinforcement Learning [[slides](https://drive.google.com/open?id=1gAz23bdgeMrzKFmZc9H4fYs792zXW9Ot)] <br>
+Wuxi, China, 2019
 
-- Episodic Memory Deep Q-Networks (Stockholm, Sweden, 2018) [[slides](https://drive.google.com/open?id=1hSdLZBnmb5jOGyYkz0cwk24fApRRgu7H)]
+- Episodic Memory Deep Q-Networks [[slides](https://drive.google.com/open?id=1hSdLZBnmb5jOGyYkz0cwk24fApRRgu7H)] <br>
+Stockholm, Sweden, 2018
 
-- Reinforcement Learning: Episodic Memory and Learning to Run (MSRA, Beijing, 2017) [[slides](https://drive.google.com/file/d/16nCWKtAJW7VqLTyydQtUipD3cmrgZUMT/view?usp=sharing)]
+- Reinforcement Learning: Episodic Memory and Learning to Run [[slides](https://drive.google.com/file/d/16nCWKtAJW7VqLTyydQtUipD3cmrgZUMT/view?usp=sharing)] <br>
+MSRA, Beijing, 2017
 
 ## Experience and Services
 - Reviewer: NeurlPS 2020
