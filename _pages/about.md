@@ -14,9 +14,15 @@ I was a research intern at Microsoft Research Asia from Sep, 2016 to Mar, 2018 (
 
 My research interests include deep reinforcement learning, imitation learning and meta learning. My goal is to develop sample-efficient reinforcement learning algorithms. Specifically, my research projects mainly involve episodic control, representation learning, distributional RL and multi-task RL.
 
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+redirect_from: 
+  - /publications/
+---
 
-Publications
-======
 (* represents equal contribution)
 - [Episodic Reinforcement Learning with Associative Memory](https://openreview.net/forum?id=HkxjqxBYDB&noteId=HkxjqxBYDB)  <br>
 Guangxiang Zhu\*, **Zichuan Lin\***, Guangwen Yang, and Chongjie Zhang  <br>
