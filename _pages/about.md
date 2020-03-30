@@ -15,9 +15,9 @@ I was a research intern at Microsoft Research Asia from Sep, 2016 to Mar, 2018 (
 My research interests include deep reinforcement learning, imitation learning and meta learning. My goal is to develop sample-efficient reinforcement learning algorithms. Specifically, my research projects mainly involve episodic control, representation learning, distributional RL and multi-task RL.
 
 ---
-layout: archive
+permalink: /
 title: "Publications"
-permalink: /publications/
+excerpt: "Publications"
 author_profile: true
 redirect_from: 
   - /publications/
