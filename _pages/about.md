@@ -57,10 +57,10 @@ MSRA, Beijing, 2017
 
 Awards & Honors
 ======
-- Person of the Year nominee, Tsinghua University, 2019. [[Media](https://mp.weixin.qq.com/s/OtJSuCslUEhj2x59Mctixw)]
+- Person of the Year nominee, Tsinghua University, 2019. [[Media Coverage](https://mp.weixin.qq.com/s/OtJSuCslUEhj2x59Mctixw)]
 - Tsinghua Scholarship for Overseas Graduate Study, 2019.
-- Excellence in the Microsoft Research Asia Internship Program, 2018. [[Media](https://mp.weixin.qq.com/s/KM69I6NycCPUtHapNvATVA)]
-- WeChat Public Account Report, Tsinghua University, 2018. [[Media](https://mp.weixin.qq.com/s/eqKkSmXaBXZVKtjG6s-dPg)]
+- Excellence in the Microsoft Research Asia Internship Program, 2018. [[Media Coverage](https://mp.weixin.qq.com/s/KM69I6NycCPUtHapNvATVA)]
+- WeChat Public Account Article, Tsinghua University, 2018. [[Media Coverage](https://mp.weixin.qq.com/s/eqKkSmXaBXZVKtjG6s-dPg)]
 - National Scholarship (Top 1%) at Tsinghua University, 2018.
 - Excellent Undergraduate Thesis Award (Top 10%) at Tsinghua University, 2016.
 - Top 2 in Tsinghua Mathematical Contest in Modeling, 2016.
