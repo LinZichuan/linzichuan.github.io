@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Zichuan Lin, a fourth-year Ph.D. student in the Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Guangwen Yang](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224195554390212530/20101224195554390212530_.html). 
+Hi! I am Zichuan Lin, a fourth-year Ph.D. student in the Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Guangwen Yang](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224195554390212530/20101224195554390212530_.html). Previously, I completed my B.S. in Computer Science at Tsinghua University.
 
-I was a research intern at Microsoft Research Asia from Sep, 2016 to Mar, 2018 (advised by [Lintao Zhang](https://www.microsoft.com/en-us/research/people/lintaoz/)) and from May, 2018 to Jun, 2019 (advised by [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Li Zhao](https://www.microsoft.com/en-us/research/people/lizo/)). I will be joining [SAIL](https://ai.stanford.edu/) at Stanford University as a visiting student researcher this Summer, advised by [Prof. Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
+I was a research intern at Microsoft Research Asia (MSRA) from Sep, 2016 to Mar, 2018 (advised by [Lintao Zhang](https://www.microsoft.com/en-us/research/people/lintaoz/)) and from May, 2018 to Jun, 2019 (advised by [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Li Zhao](https://www.microsoft.com/en-us/research/people/lizo/)). I will be joining [SAIL](https://ai.stanford.edu/) at Stanford University as a visiting student researcher this Summer, advised by [Prof. Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
 
 My research interests include deep reinforcement learning, imitation learning and meta learning. My goal is to develop sample-efficient reinforcement learning algorithms. Specifically, my research projects mainly involve episodic control, representation learning, distributional RL and multi-task RL.
 
@@ -54,6 +54,19 @@ Stockholm, Sweden, 2018
 
 - Reinforcement Learning: Episodic Memory and Learning to Run [[slides](https://drive.google.com/file/d/16nCWKtAJW7VqLTyydQtUipD3cmrgZUMT/view?usp=sharing)] <br>
 MSRA, Beijing, 2017
+
+Awards & Honors
+======
+- Person of the Year nominee, Tsinghua University, 2019. [[Media](https://mp.weixin.qq.com/s/OtJSuCslUEhj2x59Mctixw)]
+- Tsinghua Scholarship for Overseas Graduate Study, 2019.
+- Excellence in the Microsoft Research Asia Internship Program, 2018. [[Media](https://mp.weixin.qq.com/s/KM69I6NycCPUtHapNvATVA)]
+- WeChat Public Account Report, Tsinghua University, 2018. [[Media](https://mp.weixin.qq.com/s/eqKkSmXaBXZVKtjG6s-dPg)]
+- National Scholarship (Top 1%) at Tsinghua University, 2018.
+- Excellent Undergraduate Thesis Award (Top 10%) at Tsinghua University, 2016.
+- Top 2 in Tsinghua Mathematical Contest in Modeling, 2016.
+- 1st Place in College Table Tennis Student Championships in Beijing, 2013-2016.
+- Table Tennis National First-Level Athlete, 2012.
+- 1st Place in World Table Tennis Student Championships, Liaoning, China, 2011.
 
 Experience and Services
 ======
