@@ -62,6 +62,7 @@ Awards & Honors
 - Excellence in the Microsoft Research Asia Internship Program, 2018. [[Media Coverage](https://mp.weixin.qq.com/s/KM69I6NycCPUtHapNvATVA)]
 - WeChat Public Account Article, Tsinghua University, 2018. [[Media Coverage](https://mp.weixin.qq.com/s/eqKkSmXaBXZVKtjG6s-dPg)]
 - National Scholarship (Top 1%) at Tsinghua University, 2018.
+- Top 10 Outstanding Athletes at Tsinghua University, 2017. [[Media Coverage](https://mp.weixin.qq.com/s/_K68zJjTLo4zgzc4RE0WnQ)]
 - Excellent Undergraduate Thesis Award (Top 10%) at Tsinghua University, 2016.
 - Top 2 in Tsinghua Mathematical Contest in Modeling, 2016.
 - 1st Place in College Table Tennis Student Championships in Beijing, 2013-2016.
