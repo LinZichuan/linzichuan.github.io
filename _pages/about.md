@@ -41,6 +41,10 @@ ACML 2019 **(Oral)**
 **Zichuan Lin**, Tianqi Zhao, Guangwen Yang, and Lintao Zhang  <br>
 IJCAI 2018
 
+- [Model-based Adversarial Meta-Reinforcement Learning](https://arxiv.org/abs/2006.08875) [[code](https://github.com/LinZichuan/AdMRL)]  <br>
+**Zichuan Lin**, Garrett Thomas, Guangwen Yang, Tengyu Ma  <br>
+manuscript 2020
+
 Talks
 ======
 - Unified Policy Optimization for Reinforcement Learning [[slides](https://drive.google.com/open?id=1N-YhYJpPImix0nQFpVixrhi_c-Xr3EVd)] <br>
