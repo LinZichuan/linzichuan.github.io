@@ -17,6 +17,10 @@ My research interests include deep reinforcement learning, imitation learning an
 Publications
 ======
 (* represents equal contribution)
+- [Model-based Adversarial Meta-Reinforcement Learning](https://arxiv.org/abs/2006.08875) [[code](https://github.com/LinZichuan/AdMRL)]  <br>
+**Zichuan Lin**, Garrett Thomas, Guangwen Yang, Tengyu Ma  <br>
+manuscript 2020
+
 - [Episodic Reinforcement Learning with Associative Memory](https://openreview.net/forum?id=HkxjqxBYDB&noteId=HkxjqxBYDB)  <br>
 Guangxiang Zhu\*, **Zichuan Lin\***, Guangwen Yang, and Chongjie Zhang  <br>
 ICLR 2020
@@ -40,10 +44,6 @@ ACML 2019 **(Oral)**
 - [Episodic Memory Deep Q-Networks](https://arxiv.org/abs/1805.07603) [[code](https://github.com/LinZichuan/emdqn)]  <br>
 **Zichuan Lin**, Tianqi Zhao, Guangwen Yang, and Lintao Zhang  <br>
 IJCAI 2018
-
-- [Model-based Adversarial Meta-Reinforcement Learning](https://arxiv.org/abs/2006.08875) [[code](https://github.com/LinZichuan/AdMRL)]  <br>
-**Zichuan Lin**, Garrett Thomas, Guangwen Yang, Tengyu Ma  <br>
-manuscript 2020
 
 Talks
 ======
