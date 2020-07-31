@@ -33,7 +33,7 @@ AAAI 2020
 **Zichuan Lin**, Li Zhao, Derek Yang, Tao Qin, Guangwen Yang, and Tie-yan Liu  <br>
 NeurIPS 2019
 
-- [Fully Parameterized Quantile Function for Distributional Reinforcement Learning](https://arxiv.org/abs/1911.02140)  <br>
+- [Fully Parameterized Quantile Function for Distributional Reinforcement Learning](https://arxiv.org/abs/1911.02140) [[code](https://github.com/microsoft/FQF)] <br>
 Derek Yang, Li Zhao, **Zichuan Lin**, Jiang Bian, Tao Qin, and Tie-yan Liu  <br>
 NeurIPS 2019
 
