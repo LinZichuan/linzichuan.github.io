@@ -19,7 +19,7 @@ Publications
 (* represents equal contribution)
 - [Model-based Adversarial Meta-Reinforcement Learning](https://arxiv.org/abs/2006.08875) [[code](https://github.com/LinZichuan/AdMRL)]  <br>
 **Zichuan Lin**, Garrett Thomas, Guangwen Yang, Tengyu Ma  <br>
-NeurIPS 2020. [Accepted version](https://biases-invariances-generalization.github.io/pdf/big_48.pdf) in ICML 2020 BIG Workshop
+NeurIPS 2020. [Abbreviated version](https://biases-invariances-generalization.github.io/pdf/big_48.pdf) in ICML 2020 BIG Workshop
 
 - [RD$^2$: Reward Decomposition with Representation Decomposition]()   <br>
 **Zichuan Lin\***, Derek Yang\*, Li Zhao, Tao Qin, Guangwen Yang, Tie-yan Liu <br>
