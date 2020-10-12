@@ -68,6 +68,7 @@ MSRA, Beijing, 2017
 
 Awards & Honors
 ======
+- National Scholarship (Top 1%) at Tsinghua University, 2020.
 - Person of the Year nominee, Tsinghua University, 2019. [[Media Coverage](https://mp.weixin.qq.com/s/OtJSuCslUEhj2x59Mctixw)]
 - Tsinghua Scholarship for Overseas Graduate Study, 2019.
 - Excellence in the Microsoft Research Asia Internship Program, 2018. [[Media Coverage](https://mp.weixin.qq.com/s/KM69I6NycCPUtHapNvATVA)]
