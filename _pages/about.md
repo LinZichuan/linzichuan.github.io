@@ -21,7 +21,7 @@ Publications
 **Zichuan Lin**, Garrett Thomas, Guangwen Yang, Tengyu Ma  <br>
 NeurIPS 2020
 
-- [RD$^2$: Reward Decomposition with Representation Decomposition]()   <br>
+- [RD$^2$: Reward Decomposition with Representation Decomposition](https://papers.nips.cc/paper/2020/file/82039d16dce0aab3913b6a7ac73deff7-Paper.pdf)   <br>
 **Zichuan Lin\***, Derek Yang\*, Li Zhao, Tao Qin, Guangwen Yang, Tie-yan Liu <br>
 NeurIPS 2020
 
@@ -68,6 +68,7 @@ MSRA, Beijing, 2017
 
 Awards & Honors
 ======
+- 84 Innovative Future Scholarship (Top 1%) at department of Computer Science at Tsinghua University, 2020.
 - National Scholarship (Top 1%) at Tsinghua University, 2020.
 - Person of the Year nominee, Tsinghua University, 2019. [[Media Coverage](https://mp.weixin.qq.com/s/OtJSuCslUEhj2x59Mctixw)]
 - Tsinghua Scholarship for Overseas Graduate Study, 2019.
