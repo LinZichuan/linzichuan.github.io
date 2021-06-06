@@ -68,6 +68,7 @@ MSRA, Beijing, 2017
 
 Awards & Honors
 ======
+- Beijing Outstanding PhD Graduate, 2021.
 - 84 Innovative Future Scholarship (Top 1%) at department of Computer Science at Tsinghua University, 2020.
 - National Scholarship (Top 1%) at Tsinghua University, 2020.
 - Person of the Year nominee, Tsinghua University, 2019. [[Media Coverage](https://mp.weixin.qq.com/s/OtJSuCslUEhj2x59Mctixw)]
