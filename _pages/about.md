@@ -14,6 +14,12 @@ I was a research intern at Microsoft Research Asia (MSRA) from Sep, 2016 to Mar,
 
 My research interests include reinforcement learning and deep learning. My goal is to develop sample-efficient reinforcement learning algorithms with strong robustness and interpretability. My research projects mainly involve episodic control, reward decomposition, disentangled representation learning, model-based RL and meta-RL. I am also interested in RL applications such as task-oriented dialogue systems.
 
+Manuscripts
+======
+- [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
+**Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
+arxiv 2021
+
 Publications
 ======
 (* represents equal contribution)
