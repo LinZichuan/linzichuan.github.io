@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Aloha! I am Zichuan Lin, a fifth-year Ph.D. student in the Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Guangwen Yang](http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224195554390212530/20101224195554390212530_.html). Previously, I completed my B.S. in Computer Science at Tsinghua University.
+Hi! I am Zichuan Lin. I am a researcher working on game AI at Tencent AI Lab. I got my Ph.D. degree in June, 2021 in the Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Guangwen Yang](http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224195554390212530/20101224195554390212530_.html). Previously, I completed my B.S. in Computer Science at Tsinghua University.
 
 I was a research intern at Microsoft Research Asia (MSRA) from Sep, 2016 to Mar, 2018 (advised by [Lintao Zhang](https://www.microsoft.com/en-us/research/people/lintaoz/)) and from May, 2018 to Jun, 2019 (advised by [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Li Zhao](https://www.microsoft.com/en-us/research/people/lizo/)). I was a visiting student researcher at Stanford University from Feb, 2020, advised by [Prof. Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
 
