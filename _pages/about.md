@@ -91,7 +91,7 @@ Awards & Honors
 
 Experience and Services
 ======
-- Reviewer: NeurlPS 2020-2021, AAAI 2021-2022, ICML 2021, ICLR 2022, TPAMI 2021
+- Reviewer: NeurlPS 2020-2021, AAAI 2021-2022, ICML 2021-2022, ICLR 2022
 - Teaching Assistant: Software Engineering (Undergraduate Course, Spring 2016)
 
 Contact
