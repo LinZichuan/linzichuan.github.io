@@ -57,7 +57,7 @@ IJCAI 2018
 
 Talks
 ======
-- Model-based Adversarial Meta-Reinforcement Learning [[videos](https://slideslive.com/38931355/modelbased-adversarial-metareinforcement-learning?locale=en)] <br>
+- Model-based Adversarial Meta-Reinforcement Learning [[videos](https://slideslive.com/38931355/modelbased-adversarial-metareinforcement-learning?locale=en111)] <br>
 ICML, BIG Workshop, 2020
 
 - Unified Policy Optimization for Reinforcement Learning [[slides](https://drive.google.com/open?id=1N-YhYJpPImix0nQFpVixrhi_c-Xr3EVd)] <br>
