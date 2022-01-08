@@ -21,7 +21,7 @@ Manuscripts
 arxiv 2021
 
 - [JueWu-MC: Playing Minecraft with Sample-efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/2112.04907) <br>
-**Zichuan Lin**, Junyou Li, Jianing Shi, Deheng Ye, Qiang Fu, Wei Yang <br>
+**Zichuan Lin\***, Junyou Li\*, Jianing Shi\*, Deheng Ye, Qiang Fu, Wei Yang <br>
 arxiv 2021
 
 Publications
