@@ -25,7 +25,8 @@ Publications
 (* represents equal contribution)
 - [JueWu-MC: Playing Minecraft with Sample-efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/2112.04907) <br>
 **Zichuan Lin\***, Junyou Li\*, Jianing Shi\*, Deheng Ye, Qiang Fu, Wei Yang <br>
-IJCAI 2022, **Long Oral top3%** (The champion solution of NeurIPS 2021 [MineRL](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition/leaderboards) research competition)
+IJCAI 2022 **(Long Oral top3%)** 
+(The champion solution of NeurIPS 2021 [MineRL](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition/leaderboards) research competition)
 
 - [Model-based Adversarial Meta-Reinforcement Learning](https://arxiv.org/abs/2006.08875) [[code](https://github.com/LinZichuan/AdMRL)]  <br>
 **Zichuan Lin**, Garrett Thomas, Guangwen Yang, Tengyu Ma  <br>
