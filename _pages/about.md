@@ -16,6 +16,18 @@ My research interests include reinforcement learning and deep learning. My goal 
 
 Manuscripts
 ======
+- [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959) <br>
+Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye
+arxiv 2022
+
+- [Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization](https://arxiv.org/abs/2209.00347) <br>
+Tiantian Zhang, **Zichuan Lin**, Yuxing Wang, Deheng Ye, Qiang Fu, Wei Yang, Xueqian Wang, Bin Liang, Bo Yuan, Xiu Li
+arxiv 2022
+
+- [Revisiting Discrete Soft Actor-Critic](https://arxiv.org/abs/2209.10081) <br>
+Haibin Zhou, **Zichuan Lin**, Junyou Li, Deheng Ye, Qiang Fu, Wei Yang
+arxiv 2022
+
 - [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
 **Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
 arxiv 2021
