@@ -37,7 +37,7 @@ Publications
 ======
 (* represents equal contribution)
 - [Future-conditioned Unsupervised Pretraining for Decision Transformer](https://arxiv.org/abs/2305.16683) <br>
-Zhihui Xie, **Zichuan Lin**, Deric Ye, Qiang Fu, Wei Yang, Shuai Li <br>
+Zhihui Xie, **Zichuan Lin**, Deheng Ye, Qiang Fu, Wei Yang, Shuai Li <br>
 ICML 2023
 
 - [Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization](https://arxiv.org/abs/2209.00347) <br>
