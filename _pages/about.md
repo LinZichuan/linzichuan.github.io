@@ -16,11 +16,6 @@ My research interests include reinforcement learning and deep learning. My goal 
 
 Manuscripts
 ======
-
-- [A Survey on Transformers in Reinforcement Learning](https://arxiv.org/abs/2301.03044) <br>
-Wenzhe Li\*, Hao Luo\*, **Zichuan Lin\***, Chongjie Zhang, Zongqing Lu, Deheng Ye <br>
-arxiv 2023
-
 - [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959) <br>
 Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
 arxiv 2022
@@ -36,6 +31,10 @@ arxiv 2021
 Publications
 ======
 (* represents equal contribution)
+- [A Survey on Transformers in Reinforcement Learning](https://arxiv.org/abs/2301.03044) <br>
+Wenzhe Li\*, Hao Luo\*, **Zichuan Lin\***, Chongjie Zhang, Zongqing Lu, Deheng Ye <br>
+TMLR 2023
+
 - [Future-conditioned Unsupervised Pretraining for Decision Transformer](https://arxiv.org/abs/2305.16683) <br>
 Zhihui Xie, **Zichuan Lin**, Deheng Ye, Qiang Fu, Wei Yang, Shuai Li <br>
 ICML 2023
