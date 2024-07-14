@@ -31,6 +31,11 @@ arxiv 2021
 Publications
 ======
 (* represents equal contribution)
+
+- [Replay-enhanced Continual Reinforcement Learning](https://arxiv.org/abs/2311.11557) <br>
+Tiantian Zhang, Kevin Z. Shen, **Zichuan Lin**, Bo Yuan, Xueqian Wang, Xiu Li, Deheng Ye <br>
+TMLR 2023
+
 - [A Survey on Transformers in Reinforcement Learning](https://arxiv.org/abs/2301.03044) <br>
 Wenzhe Li\*, Hao Luo\*, **Zichuan Lin\***, Chongjie Zhang, Zongqing Lu, Deheng Ye <br>
 TMLR 2023
