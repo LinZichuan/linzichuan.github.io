@@ -14,20 +14,6 @@ I was a research intern at Microsoft Research Asia (MSRA) from Sep, 2016 to Mar,
 
 My research interests include reinforcement learning and deep learning. My goal is to develop sample-efficient reinforcement learning algorithms with strong robustness and interpretability. My research projects mainly involve episodic control, reward decomposition, disentangled representation learning, model-based RL and meta-RL. I am also interested in RL applications such as task-oriented dialogue systems.
 
-Manuscripts
-======
-- [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959) <br>
-Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
-arxiv 2022
-
-- [Revisiting Discrete Soft Actor-Critic](https://arxiv.org/abs/2209.10081) <br>
-Haibin Zhou, **Zichuan Lin**, Junyou Li, Deheng Ye, Qiang Fu, Wei Yang <br>
-arxiv 2022
-
-- [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
-**Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
-arxiv 2021
-
 Publications
 ======
 (* represents equal contribution)
@@ -84,6 +70,20 @@ ACML 2019 **(Oral)**
 - [Episodic Memory Deep Q-Networks](https://arxiv.org/abs/1805.07603) [[code](https://github.com/LinZichuan/emdqn)]  <br>
 **Zichuan Lin**, Tianqi Zhao, Guangwen Yang, and Lintao Zhang  <br>
 IJCAI 2018
+
+Manuscripts
+======
+- [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959) <br>
+Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
+arxiv 2022
+
+- [Revisiting Discrete Soft Actor-Critic](https://arxiv.org/abs/2209.10081) <br>
+Haibin Zhou, **Zichuan Lin**, Junyou Li, Deheng Ye, Qiang Fu, Wei Yang <br>
+arxiv 2022
+
+- [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
+**Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
+arxiv 2021
 
 Talks
 ======
