@@ -18,6 +18,10 @@ Publications
 ======
 (* represents equal contribution)
 
+- [CurrMask: Learning Versatile Skills with Automatic Masking Curricula](https://openreview.net/forum?id=xGc7I6UWAq) <br>
+Zhihui Xie, Yao Tang, **Zichuan Lin**, Deheng Ye, Shuai Li <br>
+NeurIPS 2024
+
 - [Replay-enhanced Continual Reinforcement Learning](https://arxiv.org/abs/2311.11557) <br>
 Tiantian Zhang, Kevin Z. Shen, **Zichuan Lin**, Bo Yuan, Xueqian Wang, Xiu Li, Deheng Ye <br>
 TMLR 2023
