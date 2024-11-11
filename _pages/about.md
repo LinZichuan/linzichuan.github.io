@@ -18,6 +18,10 @@ Publications
 ======
 (* represents equal contribution)
 
+- [Revisiting Discrete Soft Actor-Critic](https://arxiv.org/abs/2209.10081) <br>
+Haibin Zhou, Tong Wei, **Zichuan Lin**, Junyou Li, Deheng Ye, Qiang Fu, Wei Yang <br>
+TMLR 2024
+
 - [CurrMask: Learning Versatile Skills with Automatic Masking Curricula](https://openreview.net/forum?id=xGc7I6UWAq) <br>
 Zhihui Xie, Yao Tang, **Zichuan Lin**, Deheng Ye, Shuai Li <br>
 NeurIPS 2024
@@ -40,10 +44,6 @@ TNNLS 2023
 
 - [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959) <br>
 Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
-arxiv 2022
-
-- [Revisiting Discrete Soft Actor-Critic](https://arxiv.org/abs/2209.10081) <br>
-Haibin Zhou, **Zichuan Lin**, Junyou Li, Deheng Ye, Qiang Fu, Wei Yang <br>
 arxiv 2022
 
 - [JueWu-MC: Playing Minecraft with Sample-efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/2112.04907) <br>
