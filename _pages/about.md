@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Senior Expert Researcher at Tencent, Shenzhen, China. Previously, I completed my Ph.D. (2021) and B.S. (2016) in Computer Science at Tsinghua University, advised by [Prof. Guangwen Yang](https://www.cs.tsinghua.edu.cn/csen/info/1186/4024.htm).
 
-During my doctoral studies, I conducted research internships at Microsoft Research Asia from 2016 to 2019, where I was first advised by [Dr. Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/) (2016-2018) and later by [Dr. Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Dr. Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en) (2018-2019). Additionally, I worked as a Visiting Student Researcher at Stanford University from 2020 to 2021, advised by [Professor Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
+During my doctoral studies, I conducted research internships at Microsoft Research Asia from 2016 to 2019, where I was first advised by [Dr. Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/) (2016-2018) and later by [Dr. Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Dr. Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en) (2018-2019). Additionally, I worked as a Visiting Student Researcher at Stanford University from 2020 to 2021, advised by [Prof. Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
 
 My research interests include AI agents, deep reinforcement learning, causal inference, data science and their commercial applications.
 
