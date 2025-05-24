@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Zichuan Lin. I am a researcher working on game AI at Tencent AI Lab. I got my Ph.D. degree in June, 2021 in the Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Guangwen Yang](https://www.cs.tsinghua.edu.cn/csen/info/1186/4024.htm). Previously, I completed my B.S. in Computer Science at Tsinghua University.
+I am currently a Senior Expert Researcher at Tencent, Shenzhen, China. Previously, I completed my Ph.D. (2021) and B.S. (2016) in Computer Science at Tsinghua University, advised by [Prof. Guangwen Yang](https://www.cs.tsinghua.edu.cn/csen/info/1186/4024.htm).
 
-I was a research intern at Microsoft Research Asia (MSRA) from Sep, 2016 to Mar, 2018 (advised by [Lintao Zhang](https://scholar.google.com/citations?user=BSa0rkwAAAAJ&hl=en)) and from May, 2018 to Jun, 2019 (advised by [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin) and [Li Zhao](https://www.microsoft.com/en-us/research/people/lizo)). I was a visiting student researcher at Stanford University from Feb, 2020, advised by [Prof. Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
+During my doctoral studies, I conducted research internships at Microsoft Research Asia from 2016 to 2019, where I was first advised by [Dr. Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/) (2016-2018) and later by [Dr. Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Dr. Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en) (2018-2019). Additionally, I worked as a Visiting Student Researcher at Stanford University from 2020 to 2021, advised by [Professor Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
 
-My research interests include reinforcement learning and deep learning. My goal is to develop sample-efficient reinforcement learning algorithms with strong robustness and interpretability. My research projects mainly involve episodic control, reward decomposition, disentangled representation learning, model-based RL and meta-RL. I am also interested in RL applications such as task-oriented dialogue systems.
+My research interests include AI agents, deep reinforcement learning, causal inference, data science and their commercial applications.
+
+<!--My research interests include reinforcement learning and deep learning. My goal is to develop sample-efficient reinforcement learning algorithms with strong robustness and interpretability. My research projects mainly involve episodic control, reward decomposition, disentangled representation learning, model-based RL and meta-RL. I am also interested in RL applications such as task-oriented dialogue systems. -->
 
 Publications
 ======
@@ -140,13 +142,17 @@ Awards & Honors
 - Table Tennis National First-Level Athlete, 2012.
 - 1st Place in World Table Tennis Student Championships, Liaoning, China, 2011.
 
+<!--
 Experience and Services
 ======
 - Reviewer: NeurlPS, ICML, ICLR, AAAI
 - Teaching Assistant: Software Engineering (Undergraduate Course, Spring 2016)
+-->
 
+<!--
 Contact
 ======
 - Email: lastname + zc16 at mails dot tsinghua dot edu dot cn
 
 <a href="https://clustrmaps.com/site/1b2e1" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=38tnS4bll5XgaykJkqqgl4v3F3ocQMWiBSN-2_sgxrA&cl=ffffff"></a>
+-->
