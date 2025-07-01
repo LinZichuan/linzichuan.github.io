@@ -18,7 +18,7 @@ My research interests include LLM agents, deep reinforcement learning, causal in
 
 Publications
 ======
-(* represents equal contribution)
+<!-- (* represents equal contribution) -->
 
 - [Revisiting Discrete Soft Actor-Critic](https://arxiv.org/abs/2209.10081) <br>
 Haibin Zhou, Tong Wei, **Zichuan Lin**, Junyou Li, Deheng Ye, Qiang Fu, Wei Yang <br>
