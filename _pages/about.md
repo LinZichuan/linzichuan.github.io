@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Senior Researcher at Tencent, Shenzhen, China. Previously, I completed my Ph.D. (2021) and B.S. (2016) in Computer Science at Tsinghua University, advised by [Prof. Guangwen Yang](https://www.cs.tsinghua.edu.cn/csen/info/1186/4024.htm).
+I am currently a Senior Researcher at Tencent, Shenzhen, China. Previously, I completed my Ph.D. (2021) and B.S. (2016) in Computer Science at Tsinghua University, advised by [Prof. Guangwen Yang](https://scholar.google.com/citations?user=GYA--7MAAAAJ&hl=en).
 
-During my doctoral studies, I conducted research internships at Microsoft Research Asia from 2016 to 2019, where I was first advised by [Dr. Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/) (2016-2018) and later by [Dr. Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Dr. Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en) (2018-2019). Additionally, I worked as a Visiting Student Researcher at Stanford University from 2020 to 2021, advised by [Prof. Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
+During my PhD, I conducted research internships at Microsoft Research from 2016 to 2019, where I was advised by [Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en). Additionally, I worked as a visiting student researcher at Stanford University from 2020 to 2021, advised by [Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
 
-My research interests include AI agents, deep reinforcement learning, causal inference, data science and their commercial applications.
+My research interests include LLM agents, deep reinforcement learning, causal inference, data science and their commercial applications.
 
 <!--My research interests include reinforcement learning and deep learning. My goal is to develop sample-efficient reinforcement learning algorithms with strong robustness and interpretability. My research projects mainly involve episodic control, reward decomposition, disentangled representation learning, model-based RL and meta-RL. I am also interested in RL applications such as task-oriented dialogue systems. -->
 
