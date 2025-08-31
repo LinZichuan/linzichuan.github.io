@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Senior Researcher at Tencent, Shenzhen, China. Previously, I completed my Ph.D. (2021) and B.S. (2016) in Computer Science at Tsinghua University, advised by [Prof. Guangwen Yang](https://scholar.google.com/citations?user=GYA--7MAAAAJ&hl=en).
+I am a Senior Researcher at Tencent, Shenzhen, China. Previously, I completed my Ph.D. (2021) and B.S. (2016) in Computer Science at Tsinghua University, advised by [Prof. Guangwen Yang](https://scholar.google.com/citations?user=GYA--7MAAAAJ&hl=en).
 
 During my PhD, I conducted research internships at Microsoft Research from 2016 to 2019, where I was advised by [Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en). Additionally, I worked as a visiting student researcher at Stanford University from 2020 to 2021, advised by [Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
 
