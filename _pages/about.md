@@ -20,6 +20,10 @@ Publications
 ======
 <!-- (* represents equal contribution) -->
 
+- [CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks](https://arxiv.org/abs/2508.18797) <br>
+Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
+EMNLP 2025
+
 - [Revisiting Discrete Soft Actor-Critic](https://arxiv.org/abs/2209.10081) <br>
 Haibin Zhou, Tong Wei, **Zichuan Lin**, Junyou Li, Deheng Ye, Qiang Fu, Wei Yang <br>
 TMLR 2024
