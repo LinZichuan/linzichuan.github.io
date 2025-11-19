@@ -8,17 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Researcher at Tencent, Shenzhen, China. Previously, I completed my Ph.D. (2021) and B.S. (2016) in Computer Science at Tsinghua University, advised by [Prof. Guangwen Yang](https://scholar.google.com/citations?user=GYA--7MAAAAJ&hl=en).
+I am currently a senior researcher at Tencent. I obtained my Ph.D. (2021) and B.S. (2016) in Computer Science at Tsinghua University, advised by [Guangwen Yang](https://scholar.google.com/citations?user=GYA--7MAAAAJ&hl=en).
 
-During my PhD, I conducted research internships at Microsoft Research from 2016 to 2019, where I was advised by [Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en). Additionally, I worked as a visiting student researcher at Stanford University from 2020 to 2021, advised by [Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
+Previously I was a visiting researcher at Stanford, where I was fortunate to advised by [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). Before that, I spent three years of internship at Microsoft Research and worked closely with [Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en). 
 
-My research interests include LLM agents, deep reinforcement learning, causal inference, data science and their commercial applications.
+My research interests include LLM agents, LLM reasoning, deep reinforcement learning, causal inference, data science and their commercial applications.
 
 <!--My research interests include reinforcement learning and deep learning. My goal is to develop sample-efficient reinforcement learning algorithms with strong robustness and interpretability. My research projects mainly involve episodic control, reward decomposition, disentangled representation learning, model-based RL and meta-RL. I am also interested in RL applications such as task-oriented dialogue systems. -->
 
 Publications
 ======
 <!-- (* represents equal contribution) -->
+
+**Preprints**
+
+- [Sample Dropout: A Simple yet Effective Variance Reduction Technique in Deep Policy Optimization](https://arxiv.org/abs/2302.02299) <br>
+**Zichuan Lin**, Xiapeng Wu, Mingfei Sun, Deheng Ye, Qiang Fu, Wei Yang, Wei Liu <br>
+<!--arxiv 2023 -->
+
+- [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959) <br>
+Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
+<!--arxiv 2022 -->
+
+- [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
+**Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
+<!--arxiv 2021 -->
+
+
+**Conference/Journal Papers**
 
 - [Multi-agent In-context Coordination via Decentralized Memory Retrieval](https://arxiv.org/abs/2511.10030) <br>
 Tao Jiang, **Zichuan Lin**, Lihe Li, Yi-Chen Li, Cong Guan, Lei Yuan, Zongzhang Zhang, Yang Yu, Deheng Ye <br>
@@ -52,22 +69,10 @@ ICML 2023
 Tiantian Zhang, **Zichuan Lin**, Yuxing Wang, Deheng Ye, Qiang Fu, Wei Yang, Xueqian Wang, Bin Liang, Bo Yuan, Xiu Li <br>
 TNNLS 2023
 
-- [Sample Dropout: A Simple yet Effective Variance Reduction Technique in Deep Policy Optimization](https://arxiv.org/abs/2302.02299) <br>
-**Zichuan Lin**, Xiapeng Wu, Mingfei Sun, Deheng Ye, Qiang Fu, Wei Yang, Wei Liu <br>
-arxiv 2023
-
-- [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959) <br>
-Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
-arxiv 2022
-
 - [JueWu-MC: Playing Minecraft with Sample-efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/2112.04907) <br>
 **Zichuan Lin\***, Junyou Li\*, Jianing Shi\*, Deheng Ye, Qiang Fu, Wei Yang <br>
 IJCAI 2022 **(Long Oral top3%)** 
 (The champion solution of NeurIPS 2021 [MineRL](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition/leaderboards) research competition)
-
-- [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
-**Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
-arxiv 2021
 
 - [Model-based Adversarial Meta-Reinforcement Learning](https://arxiv.org/abs/2006.08875) [[code](https://github.com/LinZichuan/AdMRL)]  <br>
 **Zichuan Lin**, Garrett Thomas, Guangwen Yang, Tengyu Ma  <br>
