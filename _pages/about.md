@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a senior researcher at Tencent. I obtained my Ph.D. (2021) and B.S. (2016) in Computer Science at Tsinghua University, advised by [Guangwen Yang](https://scholar.google.com/citations?user=GYA--7MAAAAJ&hl=en).
 
-Previously I was a visiting researcher at Stanford, where I was fortunate to advised by [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). Before that, I spent three years of internship at Microsoft Research and worked closely with [Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en). 
+Previously I was a visiting researcher at Stanford, where I was fortunate to advised by [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). Before that, I spent three years of internship at Microsoft Research and worked closely with [Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/), [Tao Qin](https://taoqin.github.io/) and [Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en). 
 
 My research interests include LLM agents, LLM reasoning, deep reinforcement learning, causal inference, data science and their commercial applications.
 
@@ -123,12 +123,18 @@ arxiv 2022
 arxiv 2021
 -->
 
+<!--
 Talks
 ======
 - JueWu-MC: Playing Minecraft with Sample-efficient Hierarchical Reinforcement Learning <br>
 IJCAI, Long Oral, 2022
 
-- Model-based Adversarial Meta-Reinforcement Learning <!--[[videos](https://slideslive.com/38931355/modelbased-adversarial-metareinforcement-learning?locale=en)]--> <br>
+
+- Model-based Adversarial Meta-Reinforcement Learning -->
+
+<!--[[videos](https://slideslive.com/38931355/modelbased-adversarial-metareinforcement-learning?locale=en)]--> <br>
+
+<!--
 ICML, BIG Workshop, 2020
 
 - Unified Policy Optimization for Reinforcement Learning [[slides](https://drive.google.com/open?id=1N-YhYJpPImix0nQFpVixrhi_c-Xr3EVd)] <br>
@@ -142,6 +148,7 @@ Stockholm, Sweden, 2018
 
 - Reinforcement Learning: Episodic Memory and Learning to Run [[slides](https://drive.google.com/file/d/16nCWKtAJW7VqLTyydQtUipD3cmrgZUMT/view?usp=sharing)] <br>
 MSRA, Beijing, 2017
+-->
 
 Awards & Honors
 ======
