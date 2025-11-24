@@ -20,21 +20,6 @@ Publications
 ======
 <!-- (* represents equal contribution) -->
 
-**Preprints**
-
-- [Sample Dropout: A Simple yet Effective Variance Reduction Technique in Deep Policy Optimization](https://arxiv.org/abs/2302.02299) <br>
-**Zichuan Lin**, Xiapeng Wu, Mingfei Sun, Deheng Ye, Qiang Fu, Wei Yang, Wei Liu <br>
-<!--arxiv 2023 -->
-
-- [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959) <br>
-Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
-<!--arxiv 2022 -->
-
-- [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
-**Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
-<!--arxiv 2021 -->
-
-
 **Conference/Journal Papers**
 
 - [Multi-agent In-context Coordination via Decentralized Memory Retrieval](https://arxiv.org/abs/2511.10030) <br>
@@ -106,6 +91,21 @@ ACML 2019 **(Oral)**
 - [Episodic Memory Deep Q-Networks](https://arxiv.org/abs/1805.07603) [[code](https://github.com/LinZichuan/emdqn)]  <br>
 **Zichuan Lin**, Tianqi Zhao, Guangwen Yang, and Lintao Zhang  <br>
 IJCAI 2018
+
+**Preprints**
+
+- [Sample Dropout: A Simple yet Effective Variance Reduction Technique in Deep Policy Optimization](https://arxiv.org/abs/2302.02299) <br>
+**Zichuan Lin**, Xiapeng Wu, Mingfei Sun, Deheng Ye, Qiang Fu, Wei Yang, Wei Liu <br>
+<!--arxiv 2023 -->
+
+- [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959) <br>
+Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
+<!--arxiv 2022 -->
+
+- [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
+**Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
+<!--arxiv 2021 -->
+
 
 <!--
 Manuscripts
