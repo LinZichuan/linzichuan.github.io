@@ -13,8 +13,7 @@ I am currently a senior researcher at Tencent. I obtained my Ph.D. (2021) and B.
 Previously I was a visiting researcher at Stanford, where I was fortunate to advised by [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). Before that, I spent three years of internship at Microsoft Research and worked closely with [Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/), [Tao Qin](https://taoqin.github.io/) and [Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en). 
 
 I am currently interested in research topics related to multimodal reasoning, agent, reinforcement learning, causal inference and their commercial applications.
-
-Email: lzcthu12 [at] gmail.com
+Email: lzcthu12[at]gmail.com
 
 <!--My research interests include reinforcement learning and deep learning. My goal is to develop sample-efficient reinforcement learning algorithms with strong robustness and interpretability. My research projects mainly involve episodic control, reward decomposition, disentangled representation learning, model-based RL and meta-RL. I am also interested in RL applications such as task-oriented dialogue systems. -->
 
