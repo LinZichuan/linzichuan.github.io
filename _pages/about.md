@@ -12,13 +12,20 @@ I am currently a senior researcher at Tencent. I obtained my Ph.D. (2021) and B.
 
 Previously I was a visiting researcher at Stanford, where I was fortunate to advised by [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). Before that, I spent three years of internship at Microsoft Research and worked closely with [Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/), [Tao Qin](https://taoqin.github.io/) and [Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en). 
 
-My research interests include LLM agents, LLM reasoning, deep reinforcement learning, causal inference, data science and their commercial applications.
+I am currently interested in research topics related to multimodal reasoning, agent, reinforcement learning, causal inference and their commercial applications.
+
+Email: lzcthu12 [at] gmail.com
 
 <!--My research interests include reinforcement learning and deep learning. My goal is to develop sample-efficient reinforcement learning algorithms with strong robustness and interpretability. My research projects mainly involve episodic control, reward decomposition, disentangled representation learning, model-based RL and meta-RL. I am also interested in RL applications such as task-oriented dialogue systems. -->
 
-Publications
+Publications <span style="font-size: 6px">(*indicates equal contribution)</span>
 ======
 <!-- (* represents equal contribution) -->
+
+**Preprints**
+
+- [EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/abs/2511.15248) <br>
+Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, Jiafei Lyu, **Zichuan Lin**, Deheng Ye, Saiyong Yang <br>
 
 **Conference/Journal Papers**
 
@@ -92,7 +99,7 @@ ACML 2019 **(Oral)**
 **Zichuan Lin**, Tianqi Zhao, Guangwen Yang, and Lintao Zhang  <br>
 IJCAI 2018
 
-**Preprints**
+**Other Papers**
 
 - [Sample Dropout: A Simple yet Effective Variance Reduction Technique in Deep Policy Optimization](https://arxiv.org/abs/2302.02299) <br>
 **Zichuan Lin**, Xiapeng Wu, Mingfei Sun, Deheng Ye, Qiang Fu, Wei Yang, Wei Liu <br>
