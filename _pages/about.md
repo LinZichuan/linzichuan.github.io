@@ -30,64 +30,64 @@ Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, Jiafei Lyu, **Zichuan Lin**, Deheng 
 
 - [Multi-agent In-context Coordination via Decentralized Memory Retrieval](https://arxiv.org/abs/2511.10030) <br>
 Tao Jiang, **Zichuan Lin**, Lihe Li, Yi-Chen Li, Cong Guan, Lei Yuan, Zongzhang Zhang, Yang Yu, Deheng Ye <br>
-AAAI 2026 **(Oral)**
+**AAAI** 2026 **(Oral)**
 
 - [CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks](https://arxiv.org/abs/2508.18797) <br>
 Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
-EMNLP 2025
+**EMNLP** 2025
 
 - [Revisiting Discrete Soft Actor-Critic](https://arxiv.org/abs/2209.10081) <br>
 Haibin Zhou, Tong Wei, **Zichuan Lin**, Junyou Li, Deheng Ye, Qiang Fu, Wei Yang <br>
-TMLR 2024
+**TMLR** 2024
 
 - [CurrMask: Learning Versatile Skills with Automatic Masking Curricula](https://openreview.net/forum?id=xGc7I6UWAq) <br>
 Zhihui Xie, Yao Tang, **Zichuan Lin**, Deheng Ye, Shuai Li <br>
-NeurIPS 2024
+**NeurIPS** 2024
 
 - [Replay-enhanced Continual Reinforcement Learning](https://arxiv.org/abs/2311.11557) <br>
 Tiantian Zhang, Kevin Z. Shen, **Zichuan Lin**, Bo Yuan, Xueqian Wang, Xiu Li, Deheng Ye <br>
-TMLR 2023
+**TMLR** 2023
 
 - [A Survey on Transformers in Reinforcement Learning](https://arxiv.org/abs/2301.03044) <br>
 Wenzhe Li\*, Hao Luo\*, **Zichuan Lin\***, Chongjie Zhang, Zongqing Lu, Deheng Ye <br>
-TMLR 2023
+**TMLR** 2023
 
 - [Future-conditioned Unsupervised Pretraining for Decision Transformer](https://arxiv.org/abs/2305.16683) <br>
 Zhihui Xie, **Zichuan Lin**, Deheng Ye, Qiang Fu, Wei Yang, Shuai Li <br>
-ICML 2023
+**ICML** 2023
 
 - [Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization](https://arxiv.org/abs/2209.00347) <br>
 Tiantian Zhang, **Zichuan Lin**, Yuxing Wang, Deheng Ye, Qiang Fu, Wei Yang, Xueqian Wang, Bin Liang, Bo Yuan, Xiu Li <br>
-TNNLS 2023
+**TNNLS** 2023
 
 - [JueWu-MC: Playing Minecraft with Sample-efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/2112.04907) <br>
 **Zichuan Lin\***, Junyou Li\*, Jianing Shi\*, Deheng Ye, Qiang Fu, Wei Yang <br>
-IJCAI 2022 **(Long Oral top3%)** 
+**IJCAI** 2022 **(Long Oral top3%)** 
 (The champion solution of NeurIPS 2021 [MineRL](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition/leaderboards) research competition)
 
 - [Model-based Adversarial Meta-Reinforcement Learning](https://arxiv.org/abs/2006.08875) [[code](https://github.com/LinZichuan/AdMRL)]  <br>
 **Zichuan Lin**, Garrett Thomas, Guangwen Yang, Tengyu Ma  <br>
-NeurIPS 2020
+**NeurIPS** 2020
 
 - [RD$^2$: Reward Decomposition with Representation Decomposition](https://papers.nips.cc/paper/2020/file/82039d16dce0aab3913b6a7ac73deff7-Paper.pdf)   <br>
 **Zichuan Lin\***, Derek Yang\*, Li Zhao, Tao Qin, Guangwen Yang, Tie-yan Liu <br>
-NeurIPS 2020
+**NeurIPS** 2020
 
 - [Episodic Reinforcement Learning with Associative Memory](https://openreview.net/forum?id=HkxjqxBYDB&noteId=HkxjqxBYDB)  <br>
 Guangxiang Zhu\*, **Zichuan Lin\***, Guangwen Yang, and Chongjie Zhang  <br>
-ICLR 2020
+**ICLR** 2020
 
 - [Object-Oriented Dynamics Learning through Multi-Level Abstraction](https://arxiv.org/abs/1904.07482)  <br>
 Guangxiang Zhu\*, Jianhao Wang\*, Zhizhou Ren\*, **Zichuan Lin** and Chongjie Zhang  <br>
-AAAI 2020
+**AAAI** 2020
 
 - [Distributional Reward Decomposition for Reinforcement Learning](https://arxiv.org/abs/1911.02166)  <br>
 **Zichuan Lin**, Li Zhao, Derek Yang, Tao Qin, Guangwen Yang, and Tie-yan Liu  <br>
-NeurIPS 2019
+**NeurIPS** 2019
 
 - [Fully Parameterized Quantile Function for Distributional Reinforcement Learning](https://arxiv.org/abs/1911.02140) [[code](https://github.com/microsoft/FQF)] <br>
 Derek Yang, Li Zhao, **Zichuan Lin**, Jiang Bian, Tao Qin, and Tie-yan Liu  <br>
-NeurIPS 2019
+**NeurIPS** 2019
 
 <!--
 - [Unified Policy Optimization for Robust Reinforcement Learning](http://proceedings.mlr.press/v101/lin19a.html)  <br>
@@ -96,7 +96,7 @@ ACML 2019 **(Oral)**
 -->
 - [Episodic Memory Deep Q-Networks](https://arxiv.org/abs/1805.07603) [[code](https://github.com/LinZichuan/emdqn)]  <br>
 **Zichuan Lin**, Tianqi Zhao, Guangwen Yang, and Lintao Zhang  <br>
-IJCAI 2018
+**IJCAI** 2018
 
 **Other Papers**
 
