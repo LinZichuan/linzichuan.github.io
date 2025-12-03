@@ -24,7 +24,7 @@ Publications <span style="font-weight: normal; font-size: 18px">(*indicates equa
 **Preprints**
 
 - [SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization](https://arxiv.org/abs/2512.02631) <br>
-**Zhengcheng Wang\***, **Zichuan Lin\***, Yijun Yang, Haobo Fu, Deheng Ye <br>
+Zhengcheng Wang\*, **Zichuan Lin\***, Yijun Yang, Haobo Fu, Deheng Ye <br>
 
 - [EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/abs/2511.15248) <br>
 Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, Jiafei Lyu, **Zichuan Lin**, Deheng Ye, Saiyong Yang <br>
