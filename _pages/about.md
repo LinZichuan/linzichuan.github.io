@@ -23,6 +23,9 @@ Publications <span style="font-weight: normal; font-size: 18px">(*indicates equa
 
 **Preprints**
 
+- [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
+**Zichuan Lin\***, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
+
 - [SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization](https://arxiv.org/abs/2512.02631) <br>
 Zhengcheng Wang\*, **Zichuan Lin\***, Yijun Yang, Haobo Fu, Deheng Ye <br>
 
