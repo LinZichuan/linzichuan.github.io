@@ -17,7 +17,7 @@ Email: lzcthu12[at]gmail.com
 
 <!--My research interests include reinforcement learning and deep learning. My goal is to develop sample-efficient reinforcement learning algorithms with strong robustness and interpretability. My research projects mainly involve episodic control, reward decomposition, disentangled representation learning, model-based RL and meta-RL. I am also interested in RL applications such as task-oriented dialogue systems. -->
 
-Publications && Preprints 
+Publications & Preprints 
 ======
 <span style="font-weight: normal; font-size: 17px">(*indicates equal contribution)</span>
 
@@ -27,12 +27,15 @@ Publications && Preprints
 
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
 **Zichuan Lin\***, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
+arXiv:2512.03794, 2025
 
 - [SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization](https://arxiv.org/abs/2512.02631) <br>
 Zhengcheng Wang\*, **Zichuan Lin\***, Yijun Yang, Haobo Fu, Deheng Ye <br>
+arXiv:2512.02631, 2025
 
 - [EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/abs/2511.15248) <br>
 Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, Jiafei Lyu, **Zichuan Lin**, Deheng Ye, Saiyong Yang <br>
+arXiv:2511.15248, 2025
 
 <!-- **Conference/Journal Papers** -->
 
