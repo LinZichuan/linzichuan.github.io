@@ -19,7 +19,7 @@ Email: lzcthu12[at]gmail.com
 
 Publications & Preprints 
 ======
-<span style="font-weight: normal; font-size: 17px">(*indicates equal contribution)</span>
+<span style="font-weight: normal; font-size: 17px">(* indicates equal contribution)</span>
 
 <!-- (* represents equal contribution) -->
 
