@@ -17,11 +17,12 @@ Email: lzcthu12[at]gmail.com
 
 <!--My research interests include reinforcement learning and deep learning. My goal is to develop sample-efficient reinforcement learning algorithms with strong robustness and interpretability. My research projects mainly involve episodic control, reward decomposition, disentangled representation learning, model-based RL and meta-RL. I am also interested in RL applications such as task-oriented dialogue systems. -->
 
-Publications <span style="font-weight: normal; font-size: 18px">(*indicates equal contribution)</span>
+Publications && Preprints <br>
+<span style="font-weight: normal; font-size: 17px">(*indicates equal contribution)</span>
 ======
 <!-- (* represents equal contribution) -->
 
-**Preprints**
+<!-- **Preprints** -->
 
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
 **Zichuan Lin\***, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
@@ -32,7 +33,7 @@ Zhengcheng Wang\*, **Zichuan Lin\***, Yijun Yang, Haobo Fu, Deheng Ye <br>
 - [EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/abs/2511.15248) <br>
 Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, Jiafei Lyu, **Zichuan Lin**, Deheng Ye, Saiyong Yang <br>
 
-**Conference/Journal Papers**
+<!-- **Conference/Journal Papers** -->
 
 - [Multi-agent In-context Coordination via Decentralized Memory Retrieval](https://arxiv.org/abs/2511.10030) <br>
 Tao Jiang, **Zichuan Lin**, Lihe Li, Yi-Chen Li, Cong Guan, Lei Yuan, Zongzhang Zhang, Yang Yu, Deheng Ye <br>
