@@ -169,20 +169,20 @@ MSRA, Beijing, 2017
 
 Awards & Honors
 ======
-- Beijing Outstanding PhD Graduate (北京市优秀博士生), 2021.
+- Beijing Outstanding PhD Graduate (**北京市优秀博士生**), 2021.
 <!-- - 84 Innovative Future Scholarship (Top 1%) at department of Computer Science at Tsinghua University, 2020. -->
-- National Scholarship (Top 1%) at Tsinghua University (清华国家奖学金), 2018 & 2020.
+- National Scholarship (Top 1%) at Tsinghua University (**清华国家奖学金**), 2018 & 2020.
 - Person of the Year nominee, Tsinghua University ([清华大学年度人物提名](https://mp.weixin.qq.com/s/OtJSuCslUEhj2x59Mctixw)，每年20名), 2019. 
 <!-- - Tsinghua Scholarship for Overseas Graduate Study, 2019. -->
 <!-- - Excellence in the Microsoft Research Asia Internship Program, 2018. [[Media Coverage](https://mp.weixin.qq.com/s/KM69I6NycCPUtHapNvATVA)] -->
-- WeChat Public Account Article, Tsinghua University, 2018. [[Media Coverage](https://mp.weixin.qq.com/s/eqKkSmXaBXZVKtjG6s-dPg)]
+- WeChat Public Account Article, Tsinghua University ([清华微信公众号采访](https://mp.weixin.qq.com/s/eqKkSmXaBXZVKtjG6s-dPg)), 2018. 
 - Top 10 Outstanding Athletes at Tsinghua University ([清华大学十佳优秀运动员](https://mp.weixin.qq.com/s/_K68zJjTLo4zgzc4RE0WnQ)，每年10名), 2017. 
-- Excellent Undergraduate Thesis Award (Top 10%) at Tsinghua University (清华计算机系本科优秀毕业论文), 2016.
+- Excellent Undergraduate Thesis Award (Top 10%) at Tsinghua University (**清华计算机系本科优秀毕业论文**), 2016.
 <!-- - Top 2 in Tsinghua Mathematical Contest in Modeling, 2016. -->
-- 1st Place in College Table Tennis Student Championships in Beijing (首都高校乒乓球比赛男子单打四连冠), 2013-2016.
-- 3rd Place in National Table Tennis Student Championships (全国中学生乒乓球锦标赛第三名), China, 2012.
-- Table Tennis National First-Level Athlete (乒乓球国家一级运动员), 2006 & 2012.
-- 1st Place in World Table Tennis Student Championships (世界中学生乒乓球锦标赛团体冠军), Liaoning, China, 2011.
+- 1st Place in College Table Tennis Student Championships in Beijing (**首都高校乒乓球比赛男子单打四连冠**), 2013-2016.
+- 3rd Place in National Table Tennis Student Championships (**全国中学生乒乓球锦标赛第三名**), China, 2012.
+- Table Tennis National First-Level Athlete (**乒乓球国家一级运动员**), 2006 & 2012.
+- 1st Place in World Table Tennis Student Championships (**世界中学生乒乓球锦标赛团体冠军**), Liaoning, China, 2011.
 
 <!--
 Experience and Services
