@@ -26,7 +26,7 @@ Publications & Preprints
 <!-- **Preprints** -->
 
 - [PIPCFR: Pseudo-outcome Imputation with Post-treatment Variables for Individual Treatment Effect Estimation](https://arxiv.org/abs/2512.18737) <br>
-**Zichuan Lin\***, **Xiaokai Huang**, Jiate Liu, Yuxuan Han, Jia Chen, Xiapeng Wu, Deheng Ye <br>
+**Zichuan Lin\***, Xiaokai Huang\*, Jiate Liu, Yuxuan Han, Jia Chen, Xiapeng Wu, Deheng Ye <br>
 arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
 
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
