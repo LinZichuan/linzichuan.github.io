@@ -44,7 +44,7 @@ Awards & Honors
 
 Publications & Preprints 
 ======
-<span style="font-weight: normal; font-size: 17px">(* indicates equal contribution)</span>
+<span style="font-weight: normal; font-size: 17px">($*$ indicates equal contribution, ${\dagger}$ indicates corresponding author)</span>
 
 <style>
 .pub-category {
@@ -133,7 +133,7 @@ Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
   <div class="pub-category-content" id="rl-content" markdown="1">
 
 - [Multi-agent In-context Coordination via Decentralized Memory Retrieval](https://arxiv.org/abs/2511.10030) <br>
-Tao Jiang, **Zichuan Lin**, Lihe Li, Yi-Chen Li, Cong Guan, Lei Yuan, Zongzhang Zhang, Yang Yu, Deheng Ye <br>
+Tao Jiang, **Zichuan Lin$^{\dagger}$**, Lihe Li, Yi-Chen Li, Cong Guan, Lei Yuan, Zongzhang Zhang, Yang Yu, Deheng Ye <br>
 **AAAI** 2026 **(Oral)**
 
 - [Revisiting Discrete Soft Actor-Critic](https://arxiv.org/abs/2209.10081) <br>
