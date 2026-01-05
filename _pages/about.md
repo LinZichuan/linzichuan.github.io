@@ -76,7 +76,7 @@ function toggleCategory(categoryId) {
   <div class="pub-category-header" id="llm-agents-header" onclick="toggleCategory('llm-agents')">
     LLM/VLM/Agents
   </div>
-  <div class="pub-category-content" id="llm-agents-content">
+  <div class="pub-category-content" id="llm-agents-content" markdown="block">
 
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
 **Zichuan Lin\***, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
@@ -90,15 +90,14 @@ arXiv:2512.02631, 2025
 Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, Jiafei Lyu, **Zichuan Lin**, Deheng Ye, Saiyong Yang <br>
 arXiv:2511.15248, 2025
 
-
 - [CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks](https://arxiv.org/abs/2508.18797) <br>
 Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
 **EMNLP** 2025
 
 - [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
 **Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
-
 <!--arxiv 2021 -->
+
   </div>
 </div>
 
@@ -106,7 +105,7 @@ Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
   <div class="pub-category-header" id="rl-header" onclick="toggleCategory('rl')">
     Reinforcement Learning
   </div>
-  <div class="pub-category-content" id="rl-content">
+  <div class="pub-category-content" id="rl-content" markdown="block">
 
 - [Multi-agent In-context Coordination via Decentralized Memory Retrieval](https://arxiv.org/abs/2511.10030) <br>
 Tao Jiang, **Zichuan Lin**, Lihe Li, Yi-Chen Li, Cong Guan, Lei Yuan, Zongzhang Zhang, Yang Yu, Deheng Ye <br>
@@ -180,8 +179,8 @@ ACML 2019 **(Oral)**
 
 - [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959) <br>
 Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
-
 <!--arxiv 2022 -->
+
   </div>
 </div>
 
@@ -190,7 +189,7 @@ Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
   <div class="pub-category-header" id="causal-inference-header" onclick="toggleCategory('causal-inference')">
     Causal Inference
   </div>
-  <div class="pub-category-content" id="causal-inference-content">
+  <div class="pub-category-content" id="causal-inference-content" markdown="block">
 
 - [PIPCFR: Pseudo-outcome Imputation with Post-treatment Variables for Individual Treatment Effect Estimation](https://arxiv.org/abs/2512.18737) <br>
 **Zichuan Lin\***, Xiaokai Huang\*, Jiate Liu, Yuxuan Han, Jia Chen, Xiapeng Wu, Deheng Ye <br>
