@@ -77,6 +77,7 @@ function toggleCategory(categoryId) {
     LLM/VLM/Agents
   </div>
   <div class="pub-category-content" id="llm-agents-content">
+
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
 **Zichuan Lin\***, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
 arXiv:2512.03794, 2025 [[Project Page](https://adaptvision.github.io/)]
@@ -96,6 +97,7 @@ Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
 
 - [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
 **Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
+
 <!--arxiv 2021 -->
   </div>
 </div>
@@ -178,6 +180,7 @@ ACML 2019 **(Oral)**
 
 - [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959) <br>
 Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
+
 <!--arxiv 2022 -->
   </div>
 </div>
@@ -188,9 +191,11 @@ Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
     Causal Inference
   </div>
   <div class="pub-category-content" id="causal-inference-content">
+
 - [PIPCFR: Pseudo-outcome Imputation with Post-treatment Variables for Individual Treatment Effect Estimation](https://arxiv.org/abs/2512.18737) <br>
 **Zichuan Lin\***, Xiaokai Huang\*, Jiate Liu, Yuxuan Han, Jia Chen, Xiapeng Wu, Deheng Ye <br>
 arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
+
   </div>
 </div>
 
