@@ -242,7 +242,12 @@ Stockholm, Sweden, 2018
 MSRA, Beijing, 2017
 -->
 
-## Awards & Honors
+<!-- Awards & Honors section -->
+
+&nbsp;
+
+Awards & Honors
+======
 
 - 北京市优秀博士生, 2021.
 <!-- - 84 Innovative Future Scholarship (Top 1%) at department of Computer Science at Tsinghua University, 2020. -->
