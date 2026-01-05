@@ -21,14 +21,62 @@ Publications & Preprints
 ======
 <span style="font-weight: normal; font-size: 17px">(* indicates equal contribution)</span>
 
-<!-- (* represents equal contribution) -->
+<style>
+.pub-category {
+  margin: 15px 0;
+}
+.pub-category-header {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  user-select: none;
+  transition: background-color 0.3s;
+}
+.pub-category-header:hover {
+  background-color: #e0e0e0;
+}
+.pub-category-header::before {
+  content: "▶ ";
+  display: inline-block;
+  transition: transform 0.3s;
+  margin-right: 5px;
+}
+.pub-category-header.expanded::before {
+  transform: rotate(90deg);
+}
+.pub-category-content {
+  display: none;
+  padding: 10px 0 10px 20px;
+}
+.pub-category-content.expanded {
+  display: block;
+}
+</style>
 
-<!-- **Preprints** -->
+<script>
+function toggleCategory(categoryId) {
+  const content = document.getElementById(categoryId + '-content');
+  const header = document.getElementById(categoryId + '-header');
+  if (content.style.display === 'none' || !content.classList.contains('expanded')) {
+    content.style.display = 'block';
+    content.classList.add('expanded');
+    header.classList.add('expanded');
+  } else {
+    content.style.display = 'none';
+    content.classList.remove('expanded');
+    header.classList.remove('expanded');
+  }
+}
+</script>
 
-- [PIPCFR: Pseudo-outcome Imputation with Post-treatment Variables for Individual Treatment Effect Estimation](https://arxiv.org/abs/2512.18737) <br>
-**Zichuan Lin\***, Xiaokai Huang\*, Jiate Liu, Yuxuan Han, Jia Chen, Xiapeng Wu, Deheng Ye <br>
-arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
-
+<div class="pub-category">
+  <div class="pub-category-header" id="llm-agents-header" onclick="toggleCategory('llm-agents')">
+    LLM/VLM/Agents
+  </div>
+  <div class="pub-category-content" id="llm-agents-content">
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
 **Zichuan Lin\***, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
 arXiv:2512.03794, 2025 [[Project Page](https://adaptvision.github.io/)]
@@ -41,15 +89,26 @@ arXiv:2512.02631, 2025
 Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, Jiafei Lyu, **Zichuan Lin**, Deheng Ye, Saiyong Yang <br>
 arXiv:2511.15248, 2025
 
-<!-- **Conference/Journal Papers** -->
-
-- [Multi-agent In-context Coordination via Decentralized Memory Retrieval](https://arxiv.org/abs/2511.10030) <br>
-Tao Jiang, **Zichuan Lin**, Lihe Li, Yi-Chen Li, Cong Guan, Lei Yuan, Zongzhang Zhang, Yang Yu, Deheng Ye <br>
-**AAAI** 2026 **(Oral)**
 
 - [CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks](https://arxiv.org/abs/2508.18797) <br>
 Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
 **EMNLP** 2025
+
+- [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
+**Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
+<!--arxiv 2021 -->
+  </div>
+</div>
+
+<div class="pub-category">
+  <div class="pub-category-header" id="rl-header" onclick="toggleCategory('rl')">
+    Reinforcement Learning
+  </div>
+  <div class="pub-category-content" id="rl-content">
+
+- [Multi-agent In-context Coordination via Decentralized Memory Retrieval](https://arxiv.org/abs/2511.10030) <br>
+Tao Jiang, **Zichuan Lin**, Lihe Li, Yi-Chen Li, Cong Guan, Lei Yuan, Zongzhang Zhang, Yang Yu, Deheng Ye <br>
+**AAAI** 2026 **(Oral)**
 
 - [Revisiting Discrete Soft Actor-Critic](https://arxiv.org/abs/2209.10081) <br>
 Haibin Zhou, Tong Wei, **Zichuan Lin**, Junyou Li, Deheng Ye, Qiang Fu, Wei Yang <br>
@@ -113,8 +172,6 @@ ACML 2019 **(Oral)**
 **Zichuan Lin**, Tianqi Zhao, Guangwen Yang, and Lintao Zhang  <br>
 **IJCAI** 2018
 
-**Other Papers**
-
 - [Sample Dropout: A Simple yet Effective Variance Reduction Technique in Deep Policy Optimization](https://arxiv.org/abs/2302.02299) <br>
 **Zichuan Lin**, Xiapeng Wu, Mingfei Sun, Deheng Ye, Qiang Fu, Wei Yang, Wei Liu <br>
 <!--arxiv 2023 -->
@@ -122,10 +179,20 @@ ACML 2019 **(Oral)**
 - [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959) <br>
 Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
 <!--arxiv 2022 -->
+  </div>
+</div>
 
-- [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
-**Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
-<!--arxiv 2021 -->
+
+<div class="pub-category">
+  <div class="pub-category-header" id="causal-inference-header" onclick="toggleCategory('causal-inference')">
+    Causal Inference
+  </div>
+  <div class="pub-category-content" id="causal-inference-content">
+- [PIPCFR: Pseudo-outcome Imputation with Post-treatment Variables for Individual Treatment Effect Estimation](https://arxiv.org/abs/2512.18737) <br>
+**Zichuan Lin\***, Xiaokai Huang\*, Jiate Liu, Yuxuan Han, Jia Chen, Xiapeng Wu, Deheng Ye <br>
+arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
+  </div>
+</div>
 
 
 <!--
