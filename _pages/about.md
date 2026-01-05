@@ -224,7 +224,7 @@ IJCAI, Long Oral, 2022
 
 - Model-based Adversarial Meta-Reinforcement Learning -->
 
-<!--[[videos](https://slideslive.com/38931355/modelbased-adversarial-metareinforcement-learning?locale=en)]--> <br>
+<!--[[videos](https://slideslive.com/38931355/modelbased-adversarial-metareinforcement-learning?locale=en)]-->
 
 <!--
 ICML, BIG Workshop, 2020
