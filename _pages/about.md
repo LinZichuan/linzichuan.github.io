@@ -76,8 +76,7 @@ function toggleCategory(categoryId) {
   <div class="pub-category-header" id="llm-agents-header" onclick="toggleCategory('llm-agents')">
     LLM/VLM/Agents
   </div>
-  <div class="pub-category-content" id="llm-agents-content">
-    <div markdown="1">
+  <div class="pub-category-content" id="llm-agents-content" markdown="1">
 
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
 **Zichuan Lin\***, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
@@ -99,7 +98,6 @@ Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
 **Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
 <!--arxiv 2021 -->
 
-    </div>
   </div>
 </div>
 
@@ -107,8 +105,7 @@ Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
   <div class="pub-category-header" id="rl-header" onclick="toggleCategory('rl')">
     Reinforcement Learning
   </div>
-  <div class="pub-category-content" id="rl-content">
-    <div markdown="1">
+  <div class="pub-category-content" id="rl-content" markdown="1">
 
 - [Multi-agent In-context Coordination via Decentralized Memory Retrieval](https://arxiv.org/abs/2511.10030) <br>
 Tao Jiang, **Zichuan Lin**, Lihe Li, Yi-Chen Li, Cong Guan, Lei Yuan, Zongzhang Zhang, Yang Yu, Deheng Ye <br>
@@ -184,7 +181,6 @@ ACML 2019 **(Oral)**
 Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
 <!--arxiv 2022 -->
 
-    </div>
   </div>
 </div>
 
@@ -193,14 +189,12 @@ Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
   <div class="pub-category-header" id="causal-inference-header" onclick="toggleCategory('causal-inference')">
     Causal Inference
   </div>
-  <div class="pub-category-content" id="causal-inference-content">
-    <div markdown="1">
+  <div class="pub-category-content" id="causal-inference-content" markdown="1">
 
 - [PIPCFR: Pseudo-outcome Imputation with Post-treatment Variables for Individual Treatment Effect Estimation](https://arxiv.org/abs/2512.18737) <br>
 **Zichuan Lin\***, Xiaokai Huang\*, Jiate Liu, Yuxuan Han, Jia Chen, Xiapeng Wu, Deheng Ye <br>
 arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
 
-    </div>
   </div>
 </div>
 
