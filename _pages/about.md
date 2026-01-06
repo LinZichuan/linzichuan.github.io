@@ -18,28 +18,6 @@ Email: lzcthu12[at]gmail.com
 <!--My research interests include reinforcement learning and deep learning. My goal is to develop sample-efficient reinforcement learning algorithms with strong robustness and interpretability. My research projects mainly involve episodic control, reward decomposition, disentangled representation learning, model-based RL and meta-RL. I am also interested in RL applications such as task-oriented dialogue systems. -->
 
 
-<!-- Awards & Honors section -->
-
-
-
-Awards & Honors
-======
-
-- 北京市优秀博士生, 2021.
-<!-- - 84 Innovative Future Scholarship (Top 1%) at department of Computer Science at Tsinghua University, 2020. -->
-- 清华国家奖学金 (Top 1%) , 2018 & 2020.
-- [清华大学年度人物提名](https://mp.weixin.qq.com/s/OtJSuCslUEhj2x59Mctixw)，每年20名, 2019. 
-<!-- - Tsinghua Scholarship for Overseas Graduate Study, 2019. -->
-<!-- - Excellence in the Microsoft Research Asia Internship Program, 2018. [[Media Coverage](https://mp.weixin.qq.com/s/KM69I6NycCPUtHapNvATVA)] -->
-- [清华微信公众号采访](https://mp.weixin.qq.com/s/eqKkSmXaBXZVKtjG6s-dPg), 2018. 
-- [清华大学十佳优秀运动员](https://mp.weixin.qq.com/s/_K68zJjTLo4zgzc4RE0WnQ)，每年10名, 2017. 
-- 清华计算机系本科优秀毕业论文, 2016.
-<!-- - Top 2 in Tsinghua Mathematical Contest in Modeling, 2016. -->
-- 首都高校乒乓球比赛男子单打四连冠, 2013-2016.
-- 全国中学生乒乓球锦标赛男子双打第三名, 2012.
-- 乒乓球国家一级运动员, 2006 & 2012.
-- 世界中学生乒乓球锦标赛团体冠军, 2011.
-
 
 
 Publications & Preprints 
@@ -224,6 +202,32 @@ arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
 </div>
 
 
+
+
+
+<!-- Awards & Honors section -->
+
+
+
+Awards & Honors
+======
+
+- 北京市优秀博士生, 2021.
+<!-- - 84 Innovative Future Scholarship (Top 1%) at department of Computer Science at Tsinghua University, 2020. -->
+- 清华国家奖学金 (Top 1%) , 2018 & 2020.
+- [清华大学年度人物提名](https://mp.weixin.qq.com/s/OtJSuCslUEhj2x59Mctixw)，每年20名, 2019. 
+<!-- - Tsinghua Scholarship for Overseas Graduate Study, 2019. -->
+<!-- - Excellence in the Microsoft Research Asia Internship Program, 2018. [[Media Coverage](https://mp.weixin.qq.com/s/KM69I6NycCPUtHapNvATVA)] -->
+- [清华微信公众号采访](https://mp.weixin.qq.com/s/eqKkSmXaBXZVKtjG6s-dPg), 2018. 
+- [清华大学十佳优秀运动员](https://mp.weixin.qq.com/s/_K68zJjTLo4zgzc4RE0WnQ)，每年10名, 2017. 
+- 清华计算机系本科优秀毕业论文, 2016.
+<!-- - Top 2 in Tsinghua Mathematical Contest in Modeling, 2016. -->
+- 首都高校乒乓球比赛男子单打四连冠, 2013-2016.
+- 全国中学生乒乓球锦标赛男子双打第三名, 2012.
+- 乒乓球国家一级运动员, 2006 & 2012.
+- 世界中学生乒乓球锦标赛团体冠军, 2011.
+
+
 <!--
 Manuscripts
 ======
@@ -281,3 +285,4 @@ Contact
 
 <a href="https://clustrmaps.com/site/1b2e1" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=38tnS4bll5XgaykJkqqgl4v3F3ocQMWiBSN-2_sgxrA&cl=ffffff"></a>
 -->
+
