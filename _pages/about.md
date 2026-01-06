@@ -107,9 +107,9 @@ Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
 
   </div>
 
-</div>
+<!-- </div>
 
-<div class="pub-category">
+<div class="pub-category"> -->
   
   <div class="pub-category-header" id="rl-header" onclick="toggleCategory('rl')">
   
@@ -195,10 +195,10 @@ Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
 
   </div>
 
-</div>
+<!-- </div>
 
 
-<div class="pub-category">
+<div class="pub-category"> -->
 
   <div class="pub-category-header" id="causal-inference-header" onclick="toggleCategory('causal-inference')">
 
@@ -214,7 +214,7 @@ arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
 
   </div>
 
-</div>
+<!-- </div> -->
 
 
 
