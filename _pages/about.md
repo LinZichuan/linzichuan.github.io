@@ -194,14 +194,16 @@ Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
 <!--arxiv 2022 -->
 
   </div>
-  
+
 </div>
 
 
 <div class="pub-category">
 
   <div class="pub-category-header" id="causal-inference-header" onclick="toggleCategory('causal-inference')">
+
     Causal Inference
+  
   </div>
 
   <div class="pub-category-content" id="causal-inference-content" markdown="1">
