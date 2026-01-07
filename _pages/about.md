@@ -59,6 +59,10 @@ Publications & Preprints
 }
 </style>
 
+<!-- .pub-category-header.expanded {
+  background-color: #e0e0e0;
+} -->
+
 <script>
 function toggleCategory(categoryId) {
   const content = document.getElementById(categoryId + '-content');
@@ -73,6 +77,21 @@ function toggleCategory(categoryId) {
     header.classList.remove('expanded');
   }
 }
+
+// Initialize all categories as expanded when page loads
+document.addEventListener('DOMContentLoaded', function() {
+  const categoryContents = document.querySelectorAll('.pub-category-content');
+  const categoryHeaders = document.querySelectorAll('.pub-category-header');
+  
+  categoryContents.forEach(function(content) {
+    content.style.display = 'block';
+    content.classList.add('expanded');
+  });
+  
+  categoryHeaders.forEach(function(header) {
+    header.classList.add('expanded');
+  });
+});
 </script>
 
 <div class="pub-category">
