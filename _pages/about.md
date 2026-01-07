@@ -105,11 +105,11 @@ Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
 **Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
 <!--arxiv 2021 -->
 
-  </div>
+  <!-- </div> -->
 
-<!-- </div>
+</div>
 
-<div class="pub-category"> -->
+<div class="pub-category">
   
   <div class="pub-category-header" id="rl-header" onclick="toggleCategory('rl')">
   
@@ -193,12 +193,12 @@ ACML 2019 **(Oral)**
 Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
 <!--arxiv 2022 -->
 
-  </div>
+  <!-- </div> -->
 
-<!-- </div>
+</div>
 
 
-<div class="pub-category"> -->
+<div class="pub-category">
 
   <div class="pub-category-header" id="causal-inference-header" onclick="toggleCategory('causal-inference')">
 
@@ -212,7 +212,7 @@ Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
 **Zichuan Lin\***, Xiaokai Huang\*, Jiate Liu, Yuxuan Han, Jia Chen, Xiapeng Wu, Deheng Ye <br>
 arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
 
-  </div>
+  <!-- </div> -->
 
 </div>
 
@@ -223,24 +223,26 @@ arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
 <!-- Awards & Honors section -->
 
 
-
+<!-- 
 Awards & Honors
 ======
 
 - 北京市优秀博士生, 2021.
-<!-- - 84 Innovative Future Scholarship (Top 1%) at department of Computer Science at Tsinghua University, 2020. -->
 - 清华国家奖学金 (Top 1%) , 2018 & 2020.
 - [清华大学年度人物提名](https://mp.weixin.qq.com/s/OtJSuCslUEhj2x59Mctixw)，每年20名, 2019. 
-<!-- - Tsinghua Scholarship for Overseas Graduate Study, 2019. -->
-<!-- - Excellence in the Microsoft Research Asia Internship Program, 2018. [[Media Coverage](https://mp.weixin.qq.com/s/KM69I6NycCPUtHapNvATVA)] -->
 - [清华微信公众号采访](https://mp.weixin.qq.com/s/eqKkSmXaBXZVKtjG6s-dPg), 2018. 
 - [清华大学十佳优秀运动员](https://mp.weixin.qq.com/s/_K68zJjTLo4zgzc4RE0WnQ)，每年10名, 2017. 
 - 清华计算机系本科优秀毕业论文, 2016.
-<!-- - Top 2 in Tsinghua Mathematical Contest in Modeling, 2016. -->
 - 首都高校乒乓球比赛男子单打四连冠, 2013-2016.
 - 全国中学生乒乓球锦标赛男子双打第三名, 2012.
 - 乒乓球国家一级运动员, 2006 & 2012.
-- 世界中学生乒乓球锦标赛团体冠军, 2011.
+- 世界中学生乒乓球锦标赛团体冠军, 2011. -->
+
+
+<!-- - 84 Innovative Future Scholarship (Top 1%) at department of Computer Science at Tsinghua University, 2020. -->
+<!-- - Tsinghua Scholarship for Overseas Graduate Study, 2019. -->
+<!-- - Excellence in the Microsoft Research Asia Internship Program, 2018. [[Media Coverage](https://mp.weixin.qq.com/s/KM69I6NycCPUtHapNvATVA)] -->
+<!-- - Top 2 in Tsinghua Mathematical Contest in Modeling, 2016. -->
 
 
 <!--
