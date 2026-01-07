@@ -80,17 +80,9 @@ function toggleCategory(categoryId) {
 
 // Initialize all categories as expanded when page loads
 document.addEventListener('DOMContentLoaded', function() {
-  const categoryContents = document.querySelectorAll('.pub-category-content');
-  const categoryHeaders = document.querySelectorAll('.pub-category-header');
-  
-  categoryContents.forEach(function(content) {
-    content.style.display = 'block';
-    content.classList.add('expanded');
-  });
-  
-  categoryHeaders.forEach(function(header) {
-    header.classList.add('expanded');
-  });
+  toggleCategory('llm-agents');
+  toggleCategory('rl');
+  toggleCategory('causal-inference');
 });
 </script>
 
