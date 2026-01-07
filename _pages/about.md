@@ -245,9 +245,9 @@ arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
 
 </div>
 
+<!-- End of Publications section -->
 
-
-
+<div></div>
 
 <!-- Awards & Honors section -->
 
