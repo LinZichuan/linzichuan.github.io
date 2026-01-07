@@ -252,7 +252,7 @@ arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
 <!-- Awards & Honors section -->
 
 
-<!-- 
+
 Awards & Honors
 ======
 
@@ -265,7 +265,7 @@ Awards & Honors
 - 首都高校乒乓球比赛男子单打四连冠, 2013-2016.
 - 全国中学生乒乓球锦标赛男子双打第三名, 2012.
 - 乒乓球国家一级运动员, 2006 & 2012.
-- 世界中学生乒乓球锦标赛团体冠军, 2011. -->
+- 世界中学生乒乓球锦标赛团体冠军, 2011.
 
 
 <!-- - 84 Innovative Future Scholarship (Top 1%) at department of Computer Science at Tsinghua University, 2020. -->
