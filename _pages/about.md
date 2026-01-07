@@ -79,11 +79,29 @@ function toggleCategory(categoryId) {
 }
 
 // Initialize all categories as expanded when page loads
-document.addEventListener('DOMContentLoaded', function() {
-  toggleCategory('llm-agents');
-  toggleCategory('rl');
-  toggleCategory('causal-inference');
-});
+function initializeCategories() {
+  const categories = ['llm-agents', 'rl', 'causal-inference'];
+  categories.forEach(function(categoryId) {
+    const content = document.getElementById(categoryId + '-content');
+    const header = document.getElementById(categoryId + '-header');
+    if (content && header) {
+      content.style.display = 'block';
+      content.classList.add('expanded');
+      header.classList.add('expanded');
+    }
+  });
+}
+
+// Try multiple ways to ensure the function is called
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initializeCategories);
+} else {
+  // DOM is already loaded
+  initializeCategories();
+}
+
+// Also try on window load as a fallback
+window.addEventListener('load', initializeCategories);
 </script>
 
 <div class="pub-category">
