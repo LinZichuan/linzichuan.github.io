@@ -121,6 +121,10 @@ Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
 arXiv:2211.03959, 2022
 <!--arxiv 2022 -->
 
+- [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
+**Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
+arXiv:2106.04835, 2021
+<!--arxiv 2021 -->
 
 
 ## Causal Inference
@@ -129,10 +133,6 @@ arXiv:2211.03959, 2022
 **Zichuan Lin\***, Xiaokai Huang\*, Jiate Liu, Yuxuan Han, Jia Chen, Xiapeng Wu, Deheng Ye <br>
 arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
 
-- [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
-**Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
-arXiv:2106.04835, 2021
-<!--arxiv 2021 -->
 
 <!-- End of Publications section -->
 
