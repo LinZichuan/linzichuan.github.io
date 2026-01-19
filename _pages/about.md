@@ -24,95 +24,7 @@ Publications & Preprints
 ======
 <span style="font-weight: normal; font-size: 17px">($*$ indicates equal contribution, ${\dagger}$ indicates corresponding author)</span>
 
-<style>
-.pub-category {
-  margin: 15px 0;
-}
-.pub-category-header {
-  cursor: pointer;
-  font-weight: bold;
-  font-size: 18px;
-  padding: 10px;
-  background-color: #f5f5f5;
-  border-radius: 5px;
-  user-select: none;
-  transition: background-color 0.3s;
-}
-.pub-category-header:hover {
-  background-color: #e0e0e0;
-}
-.pub-category-header::before {
-  content: "▶ ";
-  display: inline-block;
-  transition: transform 0.3s;
-  margin-right: 5px;
-}
-.pub-category-header.expanded::before {
-  transform: rotate(90deg);
-}
-.pub-category-content {
-  display: none;
-  padding: 10px 0 10px 20px;
-}
-.pub-category-content.expanded {
-  display: block;
-}
-</style>
-
-<!-- .pub-category-header.expanded {
-  background-color: #e0e0e0;
-} -->
-
-<script>
-function toggleCategory(categoryId) {
-  const content = document.getElementById(categoryId + '-content');
-  const header = document.getElementById(categoryId + '-header');
-  if (content.style.display === 'none' || !content.classList.contains('expanded')) {
-    content.style.display = 'block';
-    content.classList.add('expanded');
-    header.classList.add('expanded');
-  } else {
-    content.style.display = 'none';
-    content.classList.remove('expanded');
-    header.classList.remove('expanded');
-  }
-}
-
-// Initialize all categories as expanded when page loads
-function initializeCategories() {
-  const categories = ['llm-agents', 'rl', 'causal-inference'];
-  categories.forEach(function(categoryId) {
-    const content = document.getElementById(categoryId + '-content');
-    const header = document.getElementById(categoryId + '-header');
-    if (content && header) {
-      content.style.display = 'block';
-      content.classList.add('expanded');
-      header.classList.add('expanded');
-    }
-  });
-}
-
-// Try multiple ways to ensure the function is called
-if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', initializeCategories);
-} else {
-  // DOM is already loaded
-  initializeCategories();
-}
-
-// Also try on window load as a fallback
-window.addEventListener('load', initializeCategories);
-</script>
-
-<div class="pub-category">
-  
-  <div class="pub-category-header" id="llm-agents-header" onclick="toggleCategory('llm-agents')">
-    
-    LLM/VLM/Agents
-  
-  </div>
-
-  <div class="pub-category-content" id="llm-agents-content" markdown="1">
+## LLM/VLM/Agents
 
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
 **Zichuan Lin\***, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
@@ -134,19 +46,7 @@ Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
 **Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
 <!--arxiv 2021 -->
 
-  <!-- </div> -->
-
-</div>
-
-<div class="pub-category">
-  
-  <div class="pub-category-header" id="rl-header" onclick="toggleCategory('rl')">
-  
-    Reinforcement Learning
-  
-  </div>
-
-  <div class="pub-category-content" id="rl-content" markdown="1">
+## Reinforcement Learning
 
 - [Multi-agent In-context Coordination via Decentralized Memory Retrieval](https://arxiv.org/abs/2511.10030) <br>
 Tao Jiang, **Zichuan Lin$^{\dagger}$**, Lihe Li, Yi-Chen Li, Cong Guan, Lei Yuan, Zongzhang Zhang, Yang Yu, Deheng Ye <br>
@@ -222,28 +122,11 @@ ACML 2019 **(Oral)**
 Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
 <!--arxiv 2022 -->
 
-  <!-- </div> -->
-
-</div>
-
-
-<div class="pub-category">
-
-  <div class="pub-category-header" id="causal-inference-header" onclick="toggleCategory('causal-inference')">
-
-    Causal Inference
-  
-  </div>
-
-  <div class="pub-category-content" id="causal-inference-content" markdown="1">
+## Causal Inference
 
 - [PIPCFR: Pseudo-outcome Imputation with Post-treatment Variables for Individual Treatment Effect Estimation](https://arxiv.org/abs/2512.18737) <br>
 **Zichuan Lin\***, Xiaokai Huang\*, Jiate Liu, Yuxuan Han, Jia Chen, Xiapeng Wu, Deheng Ye <br>
 arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
-
-  <!-- </div> -->
-
-</div>
 
 <!-- End of Publications section -->
 
@@ -253,7 +136,7 @@ arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
 
 
 
-<!-- Awards & Honors
+Awards & Honors
 ======
 
 - 北京市优秀博士生, 2021.
@@ -265,7 +148,7 @@ arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
 - 首都高校乒乓球比赛男子单打四连冠, 2013-2016.
 - 全国中学生乒乓球锦标赛男子双打第三名, 2012.
 - 乒乓球国家一级运动员, 2006 & 2012.
-- 世界中学生乒乓球锦标赛团体冠军, 2011. -->
+- 世界中学生乒乓球锦标赛团体冠军, 2011.
 
 
 <!-- - 84 Innovative Future Scholarship (Top 1%) at department of Computer Science at Tsinghua University, 2020. -->
