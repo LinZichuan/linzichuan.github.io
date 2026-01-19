@@ -42,9 +42,6 @@ arXiv:2511.15248, 2025
 Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
 **EMNLP** 2025
 
-- [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
-**Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
-<!--arxiv 2021 -->
 
 ## Reinforcement Learning
 
@@ -116,17 +113,26 @@ ACML 2019 **(Oral)**
 
 - [Sample Dropout: A Simple yet Effective Variance Reduction Technique in Deep Policy Optimization](https://arxiv.org/abs/2302.02299) <br>
 **Zichuan Lin**, Xiapeng Wu, Mingfei Sun, Deheng Ye, Qiang Fu, Wei Yang, Wei Liu <br>
+arXiv:2302.02299, 2023
 <!--arxiv 2023 -->
 
 - [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959) <br>
 Zhihui Xie, **Zichuan Lin**, Junyou Li, Shuai Li, Deheng Ye <br>
+arXiv:2211.03959, 2022
 <!--arxiv 2022 -->
+
+
 
 ## Causal Inference
 
 - [PIPCFR: Pseudo-outcome Imputation with Post-treatment Variables for Individual Treatment Effect Estimation](https://arxiv.org/abs/2512.18737) <br>
 **Zichuan Lin\***, Xiaokai Huang\*, Jiate Liu, Yuxuan Han, Jia Chen, Xiapeng Wu, Deheng Ye <br>
 arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
+
+- [Joint System-Wise Optimization for Pipeline Goal-Oriented Dialog System](https://arxiv.org/abs/2106.04835) <br>
+**Zichuan Lin**, Jing Huang, Bowen Zhou, Xiaodong He, Tengyu Ma <br>
+arXiv:2106.04835, 2021
+<!--arxiv 2021 -->
 
 <!-- End of Publications section -->
 
