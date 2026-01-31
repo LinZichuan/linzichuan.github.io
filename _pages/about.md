@@ -24,7 +24,7 @@ Publications & Preprints
 ======
 <span style="font-weight: normal; font-size: 17px">($*$ indicates equal contribution, ${\dagger}$ indicates corresponding author)</span>
 
-## LLM/VLM/Agents
+## Multimodal Reasoning & Agents
 
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
 **Zichuan Lin\***, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
