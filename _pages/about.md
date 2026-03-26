@@ -31,7 +31,7 @@ Publications & Preprints
 **Technical Report**, 2026 [[Code](https://github.com/ui-voyager/UI-Voyager)]
 
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
-**Zichuan Lin\***, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
+**Zichuan Lin\*$^{\dagger}$**, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
 **CVPR** 2026 [[Project Page](https://adaptvision.github.io/)]
 
 - [CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks](https://arxiv.org/abs/2508.18797) <br>
