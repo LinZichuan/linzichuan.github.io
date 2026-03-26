@@ -22,7 +22,7 @@ Email: lzcthu12[at]gmail.com
 
 Publications & Preprints 
 ======
-<span style="font-weight: normal; font-size: 17px">($^*$indicates equal contribution, $^{\dagger}$indicates corresponding author)</span>
+<span style="font-weight: normal; font-size: 17px">($^*$indicates equal contribution, $^{\dagger}$indicates project lead)</span>
 
 ## Multimodal Reasoning & Agents
 
