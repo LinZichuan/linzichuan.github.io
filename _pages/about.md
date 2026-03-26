@@ -28,7 +28,7 @@ Publications & Preprints
 
 - [UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/abs/2603.24533) <br>
 **Zichuan Lin\*$^{\dagger}$**, Feiyu Liu\*, Yijun Yang\*, Jiafei Lyu\*, Yiming Gao\*, Yicheng Liu\*, Zhicong Lu, Yangbin Yu, Mingyu Yang, Junyou Li, Deheng Ye, Jie Jiang <br>
-**Technical Report**, 2025
+**Technical Report**, 2026 [[Code](https://github.com/ui-voyager/UI-Voyager)]
 
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
 **Zichuan Lin\***, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
