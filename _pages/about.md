@@ -35,7 +35,7 @@ Publications & Preprints
 **CVPR** 2026 [[Project Page](https://adaptvision.github.io/)]
 
 - [ProAct: Agentic Lookahead in Interactive Environments](https://arxiv.org/abs/2602.05327) <br>
-Yangbin Yu, Mingyu Yang, Junyou Li, Yiming Gao, Feiyu Liu, Yijun Yang, **Zichuan Lin**, Jiafei Lyu, Yicheng Liu, Zhicong Lu, Deheng Ye, Jie Jiang
+Yangbin Yu, Mingyu Yang, Junyou Li, Yiming Gao, Feiyu Liu, Yijun Yang, **Zichuan Lin**, Jiafei Lyu, Yicheng Liu, Zhicong Lu, Deheng Ye, Jie Jiang <br>
 **Technical Report**, 2026 [[Code](https://github.com/GreatX3/ProAct)]
 
 - [CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks](https://arxiv.org/abs/2508.18797) <br>
