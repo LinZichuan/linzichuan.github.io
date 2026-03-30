@@ -32,7 +32,7 @@ Publications & Preprints
 
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
 **Zichuan Lin\*$^{\dagger}$**, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
-**CVPR** 2026 [[Project Page](https://adaptvision.github.io/)]
+**CVPR** 2026 [[Code](https://github.com/AdaptVision/AdaptVision)] [[Project Page](https://adaptvision.github.io/)]
 
 - [ProAct: Agentic Lookahead in Interactive Environments](https://arxiv.org/abs/2602.05327) <br>
 Yangbin Yu, Mingyu Yang, Junyou Li, Yiming Gao, Feiyu Liu, Yijun Yang, **Zichuan Lin**, Jiafei Lyu, Yicheng Liu, Zhicong Lu, Deheng Ye, Jie Jiang <br>
@@ -44,17 +44,17 @@ Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
 
 - [SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization](https://arxiv.org/abs/2512.02631) <br>
 Zhengcheng Wang\*, **Zichuan Lin\***, Yijun Yang, Haobo Fu, Deheng Ye <br>
-**Preprint**, 2025
+**Preprint**, 2025 [[Code](https://github.com/WzcTHU/SeeNav-Agent)]
 
 - [EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/abs/2511.15248) <br>
 Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, Jiafei Lyu, **Zichuan Lin**, Deheng Ye, Saiyong Yang <br>
-**Preprint**, 2025
+**Preprint**, 2025 [[Code](https://github.com/yk7333/EntroPIC)]
 
 ## Reinforcement Learning
 
 - [Multi-agent In-context Coordination via Decentralized Memory Retrieval](https://arxiv.org/abs/2511.10030) <br>
 Tao Jiang, **Zichuan Lin$^{\dagger}$**, Lihe Li, Yi-Chen Li, Cong Guan, Lei Yuan, Zongzhang Zhang, Yang Yu, Deheng Ye <br>
-**AAAI** 2026 **(Oral)**
+**AAAI** 2026 **(Oral)** [[Code](https://github.com/LAMDA-RL/MAICC)]
 
 - [Revisiting Discrete Soft Actor-Critic](https://arxiv.org/abs/2209.10081) <br>
 Haibin Zhou, Tong Wei, **Zichuan Lin**, Junyou Li, Deheng Ye, Qiang Fu, Wei Yang <br>
