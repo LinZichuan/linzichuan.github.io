@@ -54,7 +54,7 @@ Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, Jiafei Lyu, **Zichuan Lin**, Deheng 
 
 - [Multi-agent In-context Coordination via Decentralized Memory Retrieval](https://arxiv.org/abs/2511.10030) <br>
 Tao Jiang, **Zichuan Lin$^{\dagger}$**, Lihe Li, Yi-Chen Li, Cong Guan, Lei Yuan, Zongzhang Zhang, Yang Yu, Deheng Ye <br>
-**AAAI** 2026 **(Oral)** [[Code](https://github.com/LAMDA-RL/MAICC)]
+**AAAI** 2026 <span style="color: red;"><strong>(Oral)</strong></span> [[Code](https://github.com/LAMDA-RL/MAICC)]
 
 - [Revisiting Discrete Soft Actor-Critic](https://arxiv.org/abs/2209.10081) <br>
 Haibin Zhou, Tong Wei, **Zichuan Lin**, Junyou Li, Deheng Ye, Qiang Fu, Wei Yang <br>
