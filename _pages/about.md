@@ -32,7 +32,7 @@ Publications & Preprints
 
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
 **Zichuan Lin\*$^{\dagger}$**, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
-**CVPR** 2026 **(Highlight)** [[Code](https://github.com/AdaptVision/AdaptVision)] [[Project Page](https://adaptvision.github.io/)]
+**CVPR** 2026 <span style="color: red;">Highlight</span> [[Code](https://github.com/AdaptVision/AdaptVision)] [[Project Page](https://adaptvision.github.io/)]
 
 - [ProAct: Agentic Lookahead in Interactive Environments](https://arxiv.org/abs/2602.05327) <br>
 Yangbin Yu, Mingyu Yang, Junyou Li, Yiming Gao, Feiyu Liu, Yijun Yang, **Zichuan Lin**, Jiafei Lyu, Yicheng Liu, Zhicong Lu, Deheng Ye, Jie Jiang <br>
