@@ -85,9 +85,9 @@ Tiantian Zhang, **Zichuan Lin**, Yuxing Wang, Deheng Ye, Qiang Fu, Wei Yang, Xue
 **IJCAI** 2022 <span style="color: red;"><strong>(Long Oral top3%)</strong></span>
 (The champion solution of NeurIPS 2021 [MineRL](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition/leaderboards) research competition)
 
-- [Model-based Adversarial Meta-Reinforcement Learning](https://arxiv.org/abs/2006.08875) [[code](https://github.com/LinZichuan/AdMRL)]  <br>
+- [Model-based Adversarial Meta-Reinforcement Learning](https://arxiv.org/abs/2006.08875) <br>
 **Zichuan Lin**, Garrett Thomas, Guangwen Yang, Tengyu Ma  <br>
-**NeurIPS** 2020
+**NeurIPS** 2020 [[Code](https://github.com/LinZichuan/AdMRL)]
 
 - [RD$^2$: Reward Decomposition with Representation Decomposition](https://papers.nips.cc/paper/2020/file/82039d16dce0aab3913b6a7ac73deff7-Paper.pdf)   <br>
 **Zichuan Lin\***, Derek Yang\*, Li Zhao, Tao Qin, Guangwen Yang, Tie-yan Liu <br>
@@ -105,18 +105,18 @@ Guangxiang Zhu\*, Jianhao Wang\*, Zhizhou Ren\*, **Zichuan Lin** and Chongjie Zh
 **Zichuan Lin**, Li Zhao, Derek Yang, Tao Qin, Guangwen Yang, and Tie-yan Liu  <br>
 **NeurIPS** 2019
 
-- [Fully Parameterized Quantile Function for Distributional Reinforcement Learning](https://arxiv.org/abs/1911.02140) [[code](https://github.com/microsoft/FQF)] <br>
+- [Fully Parameterized Quantile Function for Distributional Reinforcement Learning](https://arxiv.org/abs/1911.02140) <br>
 Derek Yang, Li Zhao, **Zichuan Lin**, Jiang Bian, Tao Qin, and Tie-yan Liu  <br>
-**NeurIPS** 2019
+**NeurIPS** 2019 [[Code](https://github.com/microsoft/FQF)]
 
 <!--
 - [Unified Policy Optimization for Robust Reinforcement Learning](http://proceedings.mlr.press/v101/lin19a.html)  <br>
 **Zichuan Lin**, Li Zhao, Jiang Bian, Tao Qin, and Guangwen Yang  <br>
 ACML 2019 **(Oral)**
 -->
-- [Episodic Memory Deep Q-Networks](https://arxiv.org/abs/1805.07603) [[code](https://github.com/LinZichuan/emdqn)]  <br>
+- [Episodic Memory Deep Q-Networks](https://arxiv.org/abs/1805.07603)  <br>
 **Zichuan Lin**, Tianqi Zhao, Guangwen Yang, and Lintao Zhang  <br>
-**IJCAI** 2018
+**IJCAI** 2018 [[Code](https://github.com/LinZichuan/emdqn)]
 
 - [Sample Dropout: A Simple yet Effective Variance Reduction Technique in Deep Policy Optimization](https://arxiv.org/abs/2302.02299) <br>
 **Zichuan Lin**, Xiapeng Wu, Mingfei Sun, Deheng Ye, Qiang Fu, Wei Yang, Wei Liu <br>
