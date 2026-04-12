@@ -46,6 +46,10 @@ Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
 Zhengcheng Wang\*, **Zichuan Lin\***, Yijun Yang, Haobo Fu, Deheng Ye <br>
 **Preprint**, 2025 [[Code](https://github.com/WzcTHU/SeeNav-Agent)]
 
+- [HISR: Hindsight Information Modulated Segmental Process Rewards For Multi-turn Agentic Reinforcement Learning](https://arxiv.org/abs/2603.18683) <br>
+Zhicong Lu\*, **Zichuan Lin\***, Wei Jia, Changyuan Tian, Deheng Ye, Peiguang Li, Li Jin, Nayu Liu, Guangluan Xu, Wei Feng <br>
+**Preprint**, 2026
+
 - [EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/abs/2511.15248) <br>
 Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, Jiafei Lyu, **Zichuan Lin**, Deheng Ye, Saiyong Yang <br>
 **Preprint**, 2025 [[Code](https://github.com/yk7333/EntroPIC)]
