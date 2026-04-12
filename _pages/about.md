@@ -81,7 +81,7 @@ Tiantian Zhang, **Zichuan Lin**, Yuxing Wang, Deheng Ye, Qiang Fu, Wei Yang, Xue
 **TNNLS** 2023
 
 - [JueWu-MC: Playing Minecraft with Sample-efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/2112.04907) <br>
-**Zichuan Lin\***, Junyou Li\*, Jianing Shi\*, Deheng Ye, Qiang Fu, Wei Yang <br>
+**Zichuan Lin\*$^{\dagger}$**, Junyou Li\*, Jianing Shi\*, Deheng Ye, Qiang Fu, Wei Yang <br>
 **IJCAI** 2022 <span style="color: red;"><strong>(Long Oral top3%)</strong></span>
 (The champion solution of NeurIPS 2021 [MineRL](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition/leaderboards) research competition)
 
