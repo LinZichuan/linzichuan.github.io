@@ -146,12 +146,12 @@ arXiv:2106.04835, 2021
 
 ## Causal Inference
 
-- [Powerful and Theoretically Guaranteed Independence Testing on Heterogeneous Federated Clients]() <br>
+- [Powerful and Theoretically Guaranteed Independence Testing on Heterogeneous Federated Clients](https://icml.cc/virtual/2026/poster/62361) <br>
 Yixin Ren, Hongquan Liu, Juncai Zhang, Yewei Xia, **Zichuan Lin**, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou <br>
 **ICML** 2026
 
 - [Streaming Covariate Balancing via Discrepancy-Based Feature Coresets]() <br>
-Yixin Ren, Chenghou Jin, Yewei Xia, **Zichuan Lin**, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou
+Yixin Ren, Chenghou Jin, Yewei Xia, **Zichuan Lin**, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou <br>
 **ICML** 2026
 
 - [PIPCFR: Pseudo-outcome Imputation with Post-treatment Variables for Individual Treatment Effect Estimation](https://arxiv.org/abs/2512.18737) <br>
