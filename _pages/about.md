@@ -24,23 +24,23 @@ Publications & Preprints
 ======
 <span style="font-weight: normal; font-size: 17px">($^*$indicates equal contribution, $^{\dagger}$indicates project lead)</span>
 
-## Multimodal Reasoning & Agents
-
-- [UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/abs/2603.24533) <br>
-**Zichuan Lin\*$^{\dagger}$**, Feiyu Liu\*, Yijun Yang\*, Jiafei Lyu\*, Yiming Gao\*, Yicheng Liu\*, Zhicong Lu, Yangbin Yu, Mingyu Yang, Junyou Li, Deheng Ye, Jie Jiang <br>
-**Technical Report**, 2026 [[Code](https://github.com/ui-voyager/UI-Voyager)] [[Huggingface](https://huggingface.co/papers/2603.24533)] (#2 Daily Paper)
+## Multimodal Agents
 
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
 **Zichuan Lin\*$^{\dagger}$**, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
 **CVPR** 2026 <span style="color: red;"><strong>(Highlight)</strong></span> [[Code](https://github.com/AdaptVision/AdaptVision)] [[Project Page](https://adaptvision.github.io/)]
 
-- [ProAct: Agentic Lookahead in Interactive Environments](https://arxiv.org/abs/2602.05327) <br>
-Yangbin Yu, Mingyu Yang, Junyou Li, Yiming Gao, Feiyu Liu, Yijun Yang, **Zichuan Lin**, Jiafei Lyu, Yicheng Liu, Zhicong Lu, Deheng Ye, Jie Jiang <br>
-**Technical Report**, 2026 [[Code](https://github.com/GreatX3/ProAct)]
-
 - [CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks](https://arxiv.org/abs/2508.18797) <br>
 Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
 **EMNLP** 2025
+
+- [UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/abs/2603.24533) <br>
+**Zichuan Lin\*$^{\dagger}$**, Feiyu Liu\*, Yijun Yang\*, Jiafei Lyu\*, Yiming Gao\*, Yicheng Liu\*, Zhicong Lu, Yangbin Yu, Mingyu Yang, Junyou Li, Deheng Ye, Jie Jiang <br>
+**Technical Report**, 2026 [[Code](https://github.com/ui-voyager/UI-Voyager)] [[Huggingface](https://huggingface.co/papers/2603.24533)] (#2 Daily Paper)
+
+- [ProAct: Agentic Lookahead in Interactive Environments](https://arxiv.org/abs/2602.05327) <br>
+Yangbin Yu, Mingyu Yang, Junyou Li, Yiming Gao, Feiyu Liu, Yijun Yang, **Zichuan Lin**, Jiafei Lyu, Yicheng Liu, Zhicong Lu, Deheng Ye, Jie Jiang <br>
+**Technical Report**, 2026 [[Code](https://github.com/GreatX3/ProAct)]
 
 - [SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization](https://arxiv.org/abs/2512.02631) <br>
 Zhengcheng Wang\*, **Zichuan Lin\***, Yijun Yang, Haobo Fu, Deheng Ye <br>
@@ -49,6 +49,8 @@ Zhengcheng Wang\*, **Zichuan Lin\***, Yijun Yang, Haobo Fu, Deheng Ye <br>
 - [HISR: Hindsight Information Modulated Segmental Process Rewards For Multi-turn Agentic Reinforcement Learning](https://arxiv.org/abs/2603.18683) <br>
 Zhicong Lu\*, **Zichuan Lin\***, Wei Jia, Changyuan Tian, Deheng Ye, Peiguang Li, Li Jin, Nayu Liu, Guangluan Xu, Wei Feng <br>
 **Preprint**, 2026
+
+## LLM Reasoning
 
 - [EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/abs/2511.15248) <br>
 Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, Jiafei Lyu, **Zichuan Lin**, Deheng Ye, Saiyong Yang <br>
