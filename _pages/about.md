@@ -3,26 +3,32 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am currently a senior researcher at Tencent. I obtained my Ph.D. (2021) and B.S. (2016) in Computer Science at Tsinghua University, advised by [Guangwen Yang](https://scholar.google.com/citations?user=GYA--7MAAAAJ&hl=en).
+I am currently a senior researcher at Tencent. I received my Ph.D. (2021) and B.S. (2016) in Computer Science from Tsinghua University, where I was advised by [Guangwen Yang](https://scholar.google.com/citations?user=GYA--7MAAAAJ&hl=en).
 
-Previously I was a visiting researcher at Stanford, where I was fortunate to advised by [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). Before that, I spent three years of internship at Microsoft Research and worked closely with [Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/), [Tao Qin](https://taoqin.github.io/) and [Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en). 
+Previously, I was a visiting researcher at Stanford, where I was fortunate to be advised by [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). Before that, I spent three years interning at Microsoft Research, where I worked closely with [Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/), [Tao Qin](https://taoqin.github.io/), and [Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en).
 
-I am currently interested in research topics related to multimodal reasoning, agent, reinforcement learning, causal inference and their commercial applications.
-Email: lzcthu12[at]gmail.com
+My current research interests include:
+
+- Multimodal Agents
+- LLM Reasoning
+- Reinforcement Learning
+- Causal Inference
+
+I am open to collaborations and research discussions. Please reach out if you are interested: lzcthu12[at]gmail.com
 
 <!--My research interests include reinforcement learning and deep learning. My goal is to develop sample-efficient reinforcement learning algorithms with strong robustness and interpretability. My research projects mainly involve episodic control, reward decomposition, disentangled representation learning, model-based RL and meta-RL. I am also interested in RL applications such as task-oriented dialogue systems. -->
 
 
 
 
-Publications & Preprints 
+Publications & Preprints
 ======
-<span style="font-weight: normal; font-size: 17px">($^*$indicates equal contribution, $^{\dagger}$indicates project lead)</span>
+<span style="font-weight: normal; font-size: 17px">($^*$ indicates equal contribution; $^{\dagger}$ indicates project lead)</span>
 
 ## Multimodal Agents
 
@@ -36,7 +42,7 @@ Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
 
 - [UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/abs/2603.24533) <br>
 **Zichuan Lin\*$^{\dagger}$**, Feiyu Liu\*, Yijun Yang\*, Jiafei Lyu\*, Yiming Gao\*, Yicheng Liu\*, Zhicong Lu, Yangbin Yu, Mingyu Yang, Junyou Li, Deheng Ye, Jie Jiang <br>
-**Technical Report**, 2026 [[Code](https://github.com/ui-voyager/UI-Voyager)] [[Huggingface](https://huggingface.co/papers/2603.24533)] (#2 Daily Paper)
+**Technical Report**, 2026 [[Code](https://github.com/ui-voyager/UI-Voyager)] [[Hugging Face](https://huggingface.co/papers/2603.24533)] (#2 Daily Paper)
 
 - [ProAct: Agentic Lookahead in Interactive Environments](https://arxiv.org/abs/2602.05327) <br>
 Yangbin Yu, Mingyu Yang, Junyou Li, Yiming Gao, Feiyu Liu, Yijun Yang, **Zichuan Lin**, Jiafei Lyu, Yicheng Liu, Zhicong Lu, Deheng Ye, Jie Jiang <br>
@@ -58,7 +64,7 @@ Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, Jiafei Lyu, **Zichuan Lin**, Deheng 
 
 ## Reinforcement Learning
 
-- [Debiased Model-based Representations for Sample-efficient Continuous Control] <br>
+- Debiased Model-based Representations for Sample-efficient Continuous Control <br>
 Jiafei Lyu, **Zichuan Lin**, Scott Fujimoto, Kai Yang, Yangkun Chen, Saiyong Yang, Zongqing Lu, Deheng Ye <br>
 **ICML** 2026
 
@@ -92,40 +98,40 @@ Tiantian Zhang, **Zichuan Lin**, Yuxing Wang, Deheng Ye, Qiang Fu, Wei Yang, Xue
 
 - [JueWu-MC: Playing Minecraft with Sample-efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/2112.04907) <br>
 **Zichuan Lin\*$^{\dagger}$**, Junyou Li\*, Jianing Shi\*, Deheng Ye, Qiang Fu, Wei Yang <br>
-**IJCAI** 2022 <span style="color: red;"><strong>(Long Oral top3%)</strong></span>
-(The champion solution of NeurIPS 2021 [MineRL](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition/leaderboards) research competition)
+**IJCAI** 2022 <span style="color: red;"><strong>(Long Oral, top 3%)</strong></span>
+(Champion solution of the NeurIPS 2021 [MineRL](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition/leaderboards) research competition)
 
 - [Model-based Adversarial Meta-Reinforcement Learning](https://arxiv.org/abs/2006.08875) <br>
-**Zichuan Lin**, Garrett Thomas, Guangwen Yang, Tengyu Ma  <br>
+**Zichuan Lin**, Garrett Thomas, Guangwen Yang, Tengyu Ma <br>
 **NeurIPS** 2020 [[Code](https://github.com/LinZichuan/AdMRL)]
 
-- [RD$^2$: Reward Decomposition with Representation Decomposition](https://papers.nips.cc/paper/2020/file/82039d16dce0aab3913b6a7ac73deff7-Paper.pdf)   <br>
+- [RD$^2$: Reward Decomposition with Representation Decomposition](https://papers.nips.cc/paper/2020/file/82039d16dce0aab3913b6a7ac73deff7-Paper.pdf) <br>
 **Zichuan Lin\***, Derek Yang\*, Li Zhao, Tao Qin, Guangwen Yang, Tie-yan Liu <br>
 **NeurIPS** 2020
 
-- [Episodic Reinforcement Learning with Associative Memory](https://openreview.net/forum?id=HkxjqxBYDB&noteId=HkxjqxBYDB)  <br>
-Guangxiang Zhu\*, **Zichuan Lin\***, Guangwen Yang, and Chongjie Zhang  <br>
+- [Episodic Reinforcement Learning with Associative Memory](https://openreview.net/forum?id=HkxjqxBYDB&noteId=HkxjqxBYDB) <br>
+Guangxiang Zhu\*, **Zichuan Lin\***, Guangwen Yang, and Chongjie Zhang <br>
 **ICLR** 2020
 
-- [Object-Oriented Dynamics Learning through Multi-Level Abstraction](https://arxiv.org/abs/1904.07482)  <br>
-Guangxiang Zhu\*, Jianhao Wang\*, Zhizhou Ren\*, **Zichuan Lin** and Chongjie Zhang  <br>
+- [Object-Oriented Dynamics Learning through Multi-Level Abstraction](https://arxiv.org/abs/1904.07482) <br>
+Guangxiang Zhu\*, Jianhao Wang\*, Zhizhou Ren\*, **Zichuan Lin**, and Chongjie Zhang <br>
 **AAAI** 2020
 
-- [Distributional Reward Decomposition for Reinforcement Learning](https://arxiv.org/abs/1911.02166)  <br>
-**Zichuan Lin**, Li Zhao, Derek Yang, Tao Qin, Guangwen Yang, and Tie-yan Liu  <br>
+- [Distributional Reward Decomposition for Reinforcement Learning](https://arxiv.org/abs/1911.02166) <br>
+**Zichuan Lin**, Li Zhao, Derek Yang, Tao Qin, Guangwen Yang, and Tie-yan Liu <br>
 **NeurIPS** 2019
 
 - [Fully Parameterized Quantile Function for Distributional Reinforcement Learning](https://arxiv.org/abs/1911.02140) <br>
-Derek Yang, Li Zhao, **Zichuan Lin**, Jiang Bian, Tao Qin, and Tie-yan Liu  <br>
+Derek Yang, Li Zhao, **Zichuan Lin**, Jiang Bian, Tao Qin, and Tie-yan Liu <br>
 **NeurIPS** 2019 [[Code](https://github.com/microsoft/FQF)]
 
 <!--
-- [Unified Policy Optimization for Robust Reinforcement Learning](http://proceedings.mlr.press/v101/lin19a.html)  <br>
-**Zichuan Lin**, Li Zhao, Jiang Bian, Tao Qin, and Guangwen Yang  <br>
+- [Unified Policy Optimization for Robust Reinforcement Learning](http://proceedings.mlr.press/v101/lin19a.html) <br>
+**Zichuan Lin**, Li Zhao, Jiang Bian, Tao Qin, and Guangwen Yang <br>
 ACML 2019 **(Oral)**
 -->
-- [Episodic Memory Deep Q-Networks](https://arxiv.org/abs/1805.07603)  <br>
-**Zichuan Lin**, Tianqi Zhao, Guangwen Yang, and Lintao Zhang  <br>
+- [Episodic Memory Deep Q-Networks](https://arxiv.org/abs/1805.07603) <br>
+**Zichuan Lin**, Tianqi Zhao, Guangwen Yang, and Lintao Zhang <br>
 **IJCAI** 2018 [[Code](https://github.com/LinZichuan/emdqn)]
 
 - [Sample Dropout: A Simple yet Effective Variance Reduction Technique in Deep Policy Optimization](https://arxiv.org/abs/2302.02299) <br>
@@ -150,7 +156,7 @@ arXiv:2106.04835, 2021
 Yixin Ren, Hongquan Liu, Juncai Zhang, Yewei Xia, **Zichuan Lin**, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou <br>
 **ICML** 2026
 
-- [Streaming Covariate Balancing via Discrepancy-Based Feature Coresets]() <br>
+- Streaming Covariate Balancing via Discrepancy-Based Feature Coresets <br>
 Yixin Ren, Chenghou Jin, Yewei Xia, **Zichuan Lin**, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou <br>
 **ICML** 2026
 
@@ -171,10 +177,10 @@ Awards & Honors
 ======
 
 - 北京市优秀博士生, 2021.
-- 清华国家奖学金 (Top 1%) , 2018 & 2020.
-- [清华大学年度人物提名](https://mp.weixin.qq.com/s/OtJSuCslUEhj2x59Mctixw)，每年20名, 2019. 
-- [清华微信公众号采访](https://mp.weixin.qq.com/s/eqKkSmXaBXZVKtjG6s-dPg), 2018. 
-- [清华大学十佳优秀运动员](https://mp.weixin.qq.com/s/_K68zJjTLo4zgzc4RE0WnQ)，每年10名, 2017. 
+- 清华国家奖学金 (Top 1%), 2018 & 2020.
+- [清华大学年度人物提名](https://mp.weixin.qq.com/s/OtJSuCslUEhj2x59Mctixw)，每年 20 名, 2019.
+- [清华微信公众号采访](https://mp.weixin.qq.com/s/eqKkSmXaBXZVKtjG6s-dPg), 2018.
+- [清华大学十佳优秀运动员](https://mp.weixin.qq.com/s/_K68zJjTLo4zgzc4RE0WnQ)，每年 10 名, 2017.
 - 清华计算机系本科优秀毕业论文, 2016.
 - 首都高校乒乓球比赛男子单打四连冠, 2013-2016.
 - 全国中学生乒乓球锦标赛男子双打第三名, 2012.
@@ -245,4 +251,3 @@ Contact
 
 <a href="https://clustrmaps.com/site/1b2e1" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=38tnS4bll5XgaykJkqqgl4v3F3ocQMWiBSN-2_sgxrA&cl=ffffff"></a>
 -->
-
