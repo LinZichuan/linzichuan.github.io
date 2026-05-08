@@ -56,6 +56,10 @@ Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, Jiafei Lyu, **Zichuan Lin**, Deheng 
 
 ## Reinforcement Learning
 
+- [Debiased Model-based Representations for Sample-efficient Continuous Control] <br>
+Jiafei Lyu, **Zichuan Lin**, Scott Fujimoto, Kai Yang, Yangkun Chen, Saiyong Yang, Zongqing Lu, Deheng Ye <br>
+**ICML** 2026
+
 - [Multi-agent In-context Coordination via Decentralized Memory Retrieval](https://arxiv.org/abs/2511.10030) <br>
 Tao Jiang, **Zichuan Lin$^{\dagger}$**, Lihe Li, Yi-Chen Li, Cong Guan, Lei Yuan, Zongzhang Zhang, Yang Yu, Deheng Ye <br>
 **AAAI** 2026 <span style="color: red;"><strong>(Oral)</strong></span> [[Code](https://github.com/LAMDA-RL/MAICC)]
@@ -139,6 +143,14 @@ arXiv:2106.04835, 2021
 
 
 ## Causal Inference
+
+- [Powerful and Theoretically Guaranteed Independence Testing on Heterogeneous Federated Clients]() <br>
+Yixin Ren, Hongquan Liu, Juncai Zhang, Yewei Xia, **Zichuan Lin**, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou <br>
+**ICML** 2026
+
+- [Streaming Covariate Balancing via Discrepancy-Based Feature Coresets]() <br>
+Yixin Ren, Chenghou Jin, Yewei Xia, **Zichuan Lin**, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou
+**ICML** 2026
 
 - [PIPCFR: Pseudo-outcome Imputation with Post-treatment Variables for Individual Treatment Effect Estimation](https://arxiv.org/abs/2512.18737) <br>
 **Zichuan Lin\***, Xiaokai Huang\*, Jiate Liu, Yuxuan Han, Jia Chen, Xiapeng Wu, Deheng Ye <br>
