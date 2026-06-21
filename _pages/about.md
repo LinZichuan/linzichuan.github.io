@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a senior researcher at Tencent. I received my Ph.D. (2021) and B.S. (2016) in Computer Science from Tsinghua University, where I was advised by [Guangwen Yang](https://scholar.google.com/citations?user=GYA--7MAAAAJ&hl=en).
 
-Previously, I was a visiting researcher at Stanford, where I was fortunate to be advised by [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). Before that, I spent three years interning at Microsoft Research, where I worked closely with [Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/), [Tao Qin](https://taoqin.github.io/), and [Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en).
+Prior to that, I was a Visiting Researcher at Stanford University, fortunate to work under the supervision of Professor [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). I also spent three years as an intern at Microsoft Research, during which I had the opportunity to collaborate closely with [Lintao Zhang](https://www.linkedin.com/in/lintao-zhang/), [Tao Qin](https://taoqin.github.io/), and [Li Zhao](https://scholar.google.co.jp/citations?user=b-LJkLQAAAAJ&hl=en).
 
 My current research interests include:
 
@@ -46,7 +46,7 @@ Qi Chai, Zhang Zheng, Junlong Ren, Deheng Ye, **Zichuan Lin**, Hao Wang <br>
 
 - [ProAct: Agentic Lookahead in Interactive Environments](https://arxiv.org/abs/2602.05327) <br>
 Yangbin Yu, Mingyu Yang, Junyou Li, Yiming Gao, Feiyu Liu, Yijun Yang, **Zichuan Lin**, Jiafei Lyu, Yicheng Liu, Zhicong Lu, Deheng Ye, Jie Jiang <br>
-**ECCV**, 2026 [[Code](https://github.com/GreatX3/ProAct)]
+**ECCV** 2026 [[Code](https://github.com/GreatX3/ProAct)]
 
 - [SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization](https://arxiv.org/abs/2512.02631) <br>
 Zhengcheng Wang\*, **Zichuan Lin\***, Yijun Yang, Haobo Fu, Deheng Ye <br>
