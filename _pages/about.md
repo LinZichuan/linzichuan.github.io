@@ -64,6 +64,10 @@ Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, Jiafei Lyu, **Zichuan Lin**, Deheng 
 
 ## Reinforcement Learning
 
+- [Cross-Domain Offline Policy Adaptation via Selective Transition Correction](https://arxiv.org/abs/2602.05776) <br>
+Mengbei Yan, Jiafei Lyu, Shengjie Sun, Zhongjian Qiao, Jingwen Yang, **Zichuan Lin**, Deheng Ye, Xiu Li <br>
+**TMLR** 2026
+
 - [Debiased Model-based Representations for Sample-efficient Continuous Control](https://arxiv.org/abs/2605.11711) <br>
 Jiafei Lyu, **Zichuan Lin**, Scott Fujimoto, Kai Yang, Yangkun Chen, Saiyong Yang, Zongqing Lu, Deheng Ye <br>
 **ICML** 2026
