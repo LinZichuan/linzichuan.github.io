@@ -30,6 +30,10 @@ Publications & Preprints
 
 ## Foundation Models and Agents
 
+- [DUDS: Dual-stage Data Selection for Efficient Reinforcement Learning with Verifiable Rewards]() <br>
+Hongling Zheng, Li Shen, **Zichuan Lin**, Jiafei Lyu, Zhicong Lu, Shuhan Xu, Yong Luo, Deheng Ye, Dacheng Tao <br>
+**NeurIPS** 2026 [[Code]()]
+
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794) <br>
 **Zichuan Lin\*$^{\dagger}$**, Yicheng Liu\*, Yang Yang, Lvfang Tao, Deheng Ye <br>
 **CVPR** 2026 <span style="color: red;"><strong>(Highlight)</strong></span> [[Code](https://github.com/AdaptVision/AdaptVision)] [[Project Page](https://adaptvision.github.io/)]
