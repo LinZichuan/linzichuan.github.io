@@ -161,12 +161,12 @@ arXiv:2106.04835, 2021
 Yixin Ren, Hongquan Liu, Juncai Zhang, Yewei Xia, **Zichuan Lin**, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou <br>
 **ICML** 2026
 
-- Streaming Covariate Balancing via Discrepancy-Based Feature Coresets <br>
-Yixin Ren, Chenghou Jin, Yewei Xia, **Zichuan Lin**, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou <br>
+- [Streaming Covariate Balancing via Discrepancy-Based Feature Coresets](https://openreview.net/pdf?id=Ovk43Z9KGC) <br>
+Yixin Ren, Chenghou Jin, Yewei Xia, **Zichuan Lin$^{\dagger}$**, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou <br>
 **ICML** 2026
 
 - [PIPCFR: Pseudo-outcome Imputation with Post-treatment Variables for Individual Treatment Effect Estimation](https://arxiv.org/abs/2512.18737) <br>
-**Zichuan Lin\***, Xiaokai Huang\*, Jiate Liu, Yuxuan Han, Jia Chen, Xiapeng Wu, Deheng Ye <br>
+**Zichuan Lin\*$^{\dagger}$**, Xiaokai Huang\*, Jiate Liu, Yuxuan Han, Jia Chen, Xiapeng Wu, Deheng Ye <br>
 arXiv:2512.18737, 2025 [[Code](https://github.com/LinZichuan/PIPCFR)]
 
 
